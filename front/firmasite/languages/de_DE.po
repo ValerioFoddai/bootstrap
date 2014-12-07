@@ -1,0 +1,3695 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FirmaSite v1.3.1.2\n"
+"Report-Msgid-Bugs-To: http://deckerweb.de/kontakt/\n"
+"POT-Creation-Date: 2012-06-28 16:00+0100\n"
+"PO-Revision-Date: 2013-11-25 21:47:09+0000\n"
+"Last-Translator: Axel Pohl <axel.pohl@iris-egris.de>\n"
+"Language-Team: DECKERWEB -- http://deckerweb.de/kontakt/\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: templates/no-results.php:19
+#, php-format
+#@ firmasite
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, Ihren ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Erste Schritte</a>."
+
+#: registration/register.php:51
+#@ firmasite
+msgid "Email Address"
+msgstr "E-Mail-Adresse"
+
+#: bbpress/form-forum.php:138
+#: bbpress/form-reply-move.php:73
+#: bbpress/form-reply.php:146
+#: bbpress/form-topic-merge.php:94
+#: bbpress/form-topic-split.php:98
+#: bbpress/form-topic.php:217
+#@ firmasite
+msgid "Submit"
+msgstr "Senden"
+
+#: bbpress/form-user-login.php:22
+#@ firmasite
+msgid "Password"
+msgstr "Passwort"
+
+#: bbpress/form-user-edit.php:111
+#: bbpress/form-user-login.php:17
+#: bbpress/form-user-register.php:23
+#: registration/register.php:43
+#@ firmasite
+msgid "Username"
+msgstr "Benutzername"
+
+#: activity/index.php:78
+#@ firmasite
+msgid "Mentions"
+msgstr "Erwähnungen"
+
+#: members/single/settings/capabilities.php:59
+#@ firmasite
+msgid "Capabilities"
+msgstr "Rechte"
+
+#: functions/showcase.php:222
+#: page-full-width.php:9
+#@ firmasite
+msgid "Full Width"
+msgstr "Volle Breite"
+
+#: functions/customizer.php:113
+#@ firmasite
+msgid "Site Title Color"
+msgstr "Farbe des Titels der Website"
+
+#: activity/entry.php:39
+#: bbpress/loop-search-reply.php:43
+#@ firmasite
+msgid "In reply to: "
+msgstr "Als Antwort auf: "
+
+#: activity/entry.php:74
+#: assets/_inc/ajax.php:494
+#: assets/_inc/ajax.php:511
+#: functions/buddypress.php:135
+#@ firmasite
+msgid "Favorite"
+msgstr "Favorisieren"
+
+#: comments.php:32
+#, php-format
+#@ firmasite
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Gedanke zu &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Gedanken zu &ldquo;%2$s&rdquo;"
+
+#: bbpress/form-user-edit.php:170
+#@ firmasite
+msgid "Network Role"
+msgstr "Netzwerk-Benutzerrolle"
+
+#: bbpress/form-user-roles.php:2
+#@ firmasite
+msgid "Blog Role"
+msgstr "Webseiten-Benutzerrolle"
+
+#: bbpress/form-user-roles.php:9
+#@ firmasite
+msgid "Forum Role"
+msgstr "Foren-Benutzerrolle"
+
+#: bbpress/form-forum.php:169
+#@ firmasite
+msgid "You cannot create new forums."
+msgstr "Sie können keine neue Foren erstellen."
+
+#: bbpress/user-replies-created.php:28
+#@ firmasite
+msgid "This user has not replied to any topics."
+msgstr "Dieser Benutzer hat bislang auf keine Themen geantwortet."
+
+#: bbpress/user-replies-created.php:28
+#@ firmasite
+msgid "You have not replied to any topics."
+msgstr "Sie haben bisher auf kein Thema geantwortet."
+
+#: bbpress/user-replies-created.php:15
+#@ firmasite
+msgid "Forum Replies Created"
+msgstr "Erstellte Forenantworten"
+
+#: bbpress/user-profile.php:26
+#, php-format
+#@ firmasite
+msgid "Replies Created: %s"
+msgstr "Erstellte Antworten: %s"
+
+#: bbpress/user-details.php:49
+#, php-format
+#@ firmasite
+msgid "%s's Subscriptions"
+msgstr "Abonnements von %s"
+
+#: bbpress/user-details.php:41
+#, php-format
+#@ firmasite
+msgid "%s's Favorites"
+msgstr "Favoriten von %s"
+
+#: bbpress/user-details.php:36
+#@ firmasite
+msgid "Replies Created"
+msgstr "Erstellte Antworten"
+
+#: bbpress/user-details.php:36
+#, php-format
+#@ firmasite
+msgid "%s's Replies Created"
+msgstr "Antworten von %s"
+
+#: bbpress/form-topic.php:248
+#@ firmasite
+msgid "You cannot create new topics."
+msgstr "Sie können keine neuen Themen erstellen."
+
+#: bbpress/form-user-edit.php:149
+#@ firmasite
+msgid "Your password should be at least ten characters long. Use upper and lower case letters, numbers, and symbols to make it even stronger."
+msgstr "Ihr Passwort sollte aus mindestens zehn Zeichen bestehen. Verwenden Sie Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen, um es noch sicherer zu machen."
+
+#: bbpress/loop-single-reply-threaded.php:33
+#: bbpress/loop-single-reply.php:33
+#@ firmasite
+msgid "in reply to: "
+msgstr "als Antwort auf: "
+
+#: bbpress/user-details.php:32
+#, php-format
+#@ firmasite
+msgid "%s's Topics Started"
+msgstr "Gestartete Themen von %s"
+
+#: bbpress/user-profile.php:25
+#, php-format
+#@ firmasite
+msgid "Topics Started: %s"
+msgstr "Gestartete Themen: %s"
+
+#: bbpress/user-profile.php:24
+#, php-format
+#@ firmasite
+msgid "Forum Role: %s"
+msgstr "Forum-Benutzerrolle: %s"
+
+#: bbpress/user-topics-created.php:15
+#@ firmasite
+msgid "Forum Topics Started"
+msgstr "Gestartete Forenthemen"
+
+#: activity/activity-loop.php:43
+#@ firmasite
+msgid "Load More"
+msgstr "Mehr laden"
+
+#: blogs/index.php:54
+#: forums/index.php:61
+#: groups/index.php:56
+#: groups/single/forum.php:36
+#: members/index.php:54
+#: members/single/blogs.php:19
+#: members/single/forums.php:18
+#: members/single/friends.php:20
+#: members/single/groups.php:20
+#@ firmasite
+msgid "Order By:"
+msgstr "Sortieren nach:"
+
+#: bbpress/feedback-no-replies.php:13
+#@ firmasite
+msgid "Oh bother! No replies were found here!"
+msgstr "Es wurden bisher keine Antworten hier gefunden!"
+
+#: bbpress/user-favorites.php:15
+#@ firmasite
+msgid "Favorite Forum Topics"
+msgstr "Favorisierte Forenthemen"
+
+#: bbpress/user-favorites.php:28
+#@ firmasite
+msgid "You currently have no favorite topics."
+msgstr "Sie haben zur Zeit keine favorisierten Forenthemen."
+
+#: bbpress/user-favorites.php:28
+#@ firmasite
+msgid "This user has no favorite topics."
+msgstr "Dieser Benutzer hat keine favorisierten Themen."
+
+#: bbpress/user-subscriptions.php:19
+#@ firmasite
+msgid "Subscribed Forum Topics"
+msgstr "Abonnierte Forenthemen"
+
+#: bbpress/user-subscriptions.php:32
+#@ firmasite
+msgid "You are not currently subscribed to any topics."
+msgstr "Sie haben bisher keine Themen abonniert."
+
+#: bbpress/user-subscriptions.php:32
+#@ firmasite
+msgid "This user is not currently subscribed to any topics."
+msgstr "Dieser Benutzer hat noch keine Themen abonniert."
+
+#: forums/index.php:24
+#: groups/single/forum.php:19
+#@ firmasite
+msgid "New Topic"
+msgstr "Neues Thema"
+
+#: groups/single/forum/topic.php:9
+#@ firmasite
+msgid "New Reply"
+msgstr "Neue Antwort"
+
+#: functions/bbpress.php:113
+#@ firmasite
+msgid "No Replies"
+msgstr "Keine Antworten"
+
+#: bbpress/form-reply.php:29
+#, php-format
+#@ firmasite
+msgid "Reply To: %s"
+msgstr "Antwort auf: %s"
+
+#: bbpress/user-details.php:28
+#: members/single/profile/profile-wp.php:8
+#, php-format
+#@ firmasite
+msgid "%s's Profile"
+msgstr "%s's Profil"
+
+#: groups/create.php:121
+#@ firmasite
+msgid "Group Forums"
+msgstr "Gruppenforen"
+
+#: bbpress/form-topic.php:127
+#@ firmasite
+msgid "Forum:"
+msgstr "Forum:"
+
+#: bbpress/feedback-logged-in.php:13
+#@ firmasite
+msgid "You are already logged in."
+msgstr "Sie sind bereits angemeldet."
+
+#: bbpress/feedback-no-access.php:16
+#@ firmasite
+msgid "You do not have permission to view this forum."
+msgstr "Sie sind nicht berechtigt, dieses Forum anzuzeigen."
+
+#: bbpress/feedback-no-forums.php:13
+#@ firmasite
+msgid "Oh bother! No forums were found here!"
+msgstr "Es wurden keine Foren gefunden."
+
+#: bbpress/feedback-no-topics.php:13
+#@ firmasite
+msgid "Oh bother! No topics were found here!"
+msgstr "Es wurden keine Themen gefunden."
+
+#: bbpress/form-anonymous.php:19
+#@ firmasite
+msgid "Your information:"
+msgstr "Ihre Informationen:"
+
+#: bbpress/form-anonymous.php:26
+#@ firmasite
+msgid "Name (required):"
+msgstr "Name (erforderlich):"
+
+#: bbpress/form-anonymous.php:33
+#@ firmasite
+msgid "Mail (will not be published) (required):"
+msgstr "E-Mail (erforderlich, wird nicht veröffentlicht):"
+
+#: bbpress/form-forum.php:35
+#: bbpress/form-topic.php:41
+#, php-format
+#@ firmasite
+msgid "Now Editing &ldquo;%s&rdquo;"
+msgstr "Gerade in Bearbeitung &ldquo;%s&rdquo;"
+
+#: bbpress/form-forum.php:37
+#, php-format
+#@ firmasite
+msgid "Create New Forum in &ldquo;%s&rdquo;"
+msgstr "Neues Forum erstellen in &ldquo;%s&rdquo;"
+
+#: bbpress/form-forum.php:37
+#@ firmasite
+msgid "Create New Forum"
+msgstr "Forum erstellen"
+
+#: bbpress/form-forum.php:47
+#@ firmasite
+msgid "This forum is closed to new content, however your account still allows you to do so."
+msgstr "Dieses Forum ist für neue Inhalte geschlossen; Ihr Benutzerkonto erlaubt es Ihnen dennoch."
+
+#: bbpress/form-forum.php:55
+#: bbpress/form-reply.php:44
+#: bbpress/form-topic.php:61
+#@ firmasite
+msgid "Your account has the ability to post unrestricted HTML content."
+msgstr "Sie dürfen mit diesem Benutzerkonto uneingeschränkt HTML verwenden."
+
+#: bbpress/form-forum.php:67
+#, php-format
+#@ firmasite
+msgid "Forum Name (Maximum Length: %d):"
+msgstr "Forenname (Maximale Länge: %d):"
+
+#: bbpress/form-forum.php:91
+#@ firmasite
+msgid "Forum Type:"
+msgstr "Forentyp:"
+
+#: bbpress/form-forum.php:118
+#@ firmasite
+msgid "Parent Forum:"
+msgstr "Übergeordnetes Forum:"
+
+#: bbpress/form-forum.php:161
+#, php-format
+#@ firmasite
+msgid "The forum &#8216;%s&#8217; is closed to new content."
+msgstr "Das Forum &#8216;%s&#8217; ist geschlossen für neue Inhalte."
+
+#: bbpress/form-forum.php:169
+#@ firmasite
+msgid "You must be logged in to create new forums."
+msgstr "Sie müssen angemeldet sein, um neue Foren erstellen zu können."
+
+#: bbpress/form-reply.php:36
+#@ firmasite
+msgid "This topic is marked as closed to new replies, however your posting capabilities still allow you to do so."
+msgstr "Dieses Thema ist für neue Antworten geschlossen, obwohl die Veröffentlichungsfunktionen diese weiterhin zulassen."
+
+#: bbpress/form-reply.php:103
+#: bbpress/form-topic.php:177
+#@ firmasite
+msgid "Notify the author of follow-up replies via email"
+msgstr "Den Autor via E-Mail über eingehende Antworten informieren"
+
+#: bbpress/form-reply.php:107
+#: bbpress/form-topic.php:181
+#@ firmasite
+msgid "Notify me of follow-up replies via email"
+msgstr "Mich via E-Mail über eingehende Antworten informieren"
+
+#: bbpress/form-reply.php:125
+#: bbpress/form-topic.php:198
+#@ firmasite
+msgid "Keep a log of this edit:"
+msgstr "Aufzeichnung für folgende Bearbeitung behalten:"
+
+#: bbpress/form-reply.php:129
+#: bbpress/form-topic.php:202
+#@ firmasite
+msgid "Optional reason for editing:"
+msgstr "Optionaler Grund für die Bearbeitung:"
+
+#: bbpress/form-reply.php:169
+#, php-format
+#@ firmasite
+msgid "The topic &#8216;%s&#8217; is closed to new replies."
+msgstr "Das Thema &#8216;%s&#8217; ist für neue Antworten geschlossen."
+
+#: bbpress/form-reply.php:177
+#: bbpress/form-topic.php:240
+#, php-format
+#@ firmasite
+msgid "The forum &#8216;%s&#8217; is closed to new topics and replies."
+msgstr "Das Forum &#8216;%s&#8217; ist für neue Themen und Antworten geschlossen."
+
+#: bbpress/form-reply.php:185
+#@ firmasite
+msgid "You cannot reply to this topic."
+msgstr "Sie können zu diesem Thema keine Antwort verfassen."
+
+#: bbpress/form-reply.php:185
+#@ firmasite
+msgid "You must be logged in to reply to this topic."
+msgstr "Sie müssen angemeldet sein, um zu diesem Thema eine Antwort verfassen zu können."
+
+#: bbpress/form-topic-merge.php:24
+#, php-format
+#@ firmasite
+msgid "Merge topic \"%s\""
+msgstr "Thema \"%s\" zusammenführen"
+
+#: bbpress/form-topic-merge.php:29
+#@ firmasite
+msgid "Select the topic to merge this one into. The destination topic will remain the lead topic, and this one will change into a reply."
+msgstr "Wählen Sie das (Ziel-) Thema, mit dem dieses Thema hier zusammengeführt werden soll. Das Zielthema wird das Hauptthema bleiben, und dieses Thema wird in eine Antwort verwandelt."
+
+#: bbpress/form-topic-merge.php:30
+#@ firmasite
+msgid "To keep this topic as the lead, go to the other topic and use the merge tool from there instead."
+msgstr "Um dieses Thema als Hauptthema zu erhalten, gehen Sie in das andere Thema und verwenden das Werkzeug zum Zusammenführen von dort aus."
+
+#: bbpress/form-topic-merge.php:34
+#@ firmasite
+msgid "All replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted. If the destination topic was created after this one, it's post date will be updated to second earlier than this one."
+msgstr "Alle Antworten zu beiden Themen werden chronologisch zusammengeführt. Die Reihenfolge der zusammengeführten Antworten basiert auf Zeit und Datum ihrer Veröffentlichung. Falls das Zielthema nach diesem Thema erstellt wurde, wird sein Veröffentlichungsdatum auf einen früheren Zeitpunkt aktualisiert."
+
+#: bbpress/form-topic-merge.php:38
+#@ firmasite
+msgid "Destination"
+msgstr "Ziel"
+
+#: bbpress/form-topic-merge.php:42
+#@ firmasite
+msgid "Merge with this topic:"
+msgstr "Mit diesem Thema zusammenführen:"
+
+#: bbpress/form-topic-merge.php:51
+#@ firmasite
+msgid "No topics were found to which the topic could be merged to!"
+msgstr "Es wurden keine Themen gefunden, mit denen dieses Thema zusammengeführt werden könnte."
+
+#: bbpress/form-topic-merge.php:57
+#@ firmasite
+msgid "There are no other topics in this forum to merge with."
+msgstr "In diesem Forum gibt es keine anderen Themen, mit denen zusammengeführt werden könnte."
+
+#: bbpress/form-topic-merge.php:65
+#: bbpress/form-topic-split.php:69
+#@ firmasite
+msgid "Topic Extras"
+msgstr "Themen-Extras"
+
+#: bbpress/form-topic-merge.php:72
+#@ firmasite
+msgid "Merge topic subscribers"
+msgstr "Themen-Abonnenten zusammenführen"
+
+#: bbpress/form-topic-merge.php:77
+#@ firmasite
+msgid "Merge topic favoriters"
+msgstr "Themen-Favoriten zusammenführen"
+
+#: bbpress/form-topic-merge.php:82
+#@ firmasite
+msgid "Merge topic tags"
+msgstr "Themen-Schlagwörter zusammenführen"
+
+#: bbpress/form-reply-move.php:69
+#: bbpress/form-topic-merge.php:90
+#: bbpress/form-topic-split.php:94
+#@ firmasite
+msgid "<strong>WARNING:</strong> This process cannot be undone."
+msgstr "<strong>WARNUNG:</strong> Dieser Prozess kann nicht rückgängig gemacht werden!"
+
+#: bbpress/form-topic-merge.php:107
+#: bbpress/form-topic-split.php:111
+#@ firmasite
+msgid "You do not have the permissions to edit this topic!"
+msgstr "Sie sind nicht berechtigt, dieses Thema zu bearbeiten. "
+
+#: bbpress/form-topic-merge.php:107
+#: bbpress/form-topic-split.php:111
+#@ firmasite
+msgid "You cannot edit this topic."
+msgstr "Sie können dieses Thema nicht bearbeiten."
+
+#: bbpress/form-topic-split.php:24
+#, php-format
+#@ firmasite
+msgid "Split topic \"%s\""
+msgstr "Thema \"%s\" auftrennen"
+
+#: bbpress/form-topic-split.php:29
+#@ firmasite
+msgid "When you split a topic, you are slicing it in half starting with the reply you just selected. Choose to use that reply as a new topic with a new title, or merge those replies into an existing topic."
+msgstr "Wenn Sie ein Thema trennen, teilen Sie es auf, beginnend mit der von Ihnen ausgewählten Antwort. Legen Sie diese Antwort als neues Thema mit neuem Titel fest - oder führen Sie solche Themen innerhalb eines vorhandenen Themas zusammen."
+
+#: bbpress/form-topic-split.php:33
+#@ firmasite
+msgid "If you use the existing topic option, replies within both topics will be merged chronologically. The order of the merged replies is based on the time and date they were posted."
+msgstr "Wenn Sie die Option des vorhandenen Themas verwenden, werden die Antworten beider Themen chronologisch zusammengeführt. Die Reihenfolge der zusammengeführten Antworten basiert auf Zeit und Datum ihrer Veröffentlichung."
+
+#: bbpress/form-topic-split.php:37
+#@ firmasite
+msgid "Split Method"
+msgstr "Trennmethode"
+
+#: bbpress/form-reply-move.php:41
+#: bbpress/form-topic-split.php:41
+#, php-format
+#@ firmasite
+msgid "New topic in <strong>%s</strong> titled:"
+msgstr "Neues Thema in <strong>%s</strong>. Titel:"
+
+#: bbpress/form-topic-split.php:42
+#, php-format
+#@ firmasite
+msgid "Split: %s"
+msgstr "Trennen: %s"
+
+#: bbpress/form-reply-move.php:49
+#: bbpress/form-topic-split.php:49
+#@ firmasite
+msgid "Use an existing topic in this forum:"
+msgstr "Ein vorhandenes Thema in diesem Forum verwenden:"
+
+#: bbpress/form-reply-move.php:58
+#: bbpress/form-topic-split.php:58
+#@ firmasite
+msgid "No other topics found!"
+msgstr "Keine weiteren Themen gefunden."
+
+#: bbpress/form-topic-split.php:76
+#@ firmasite
+msgid "Copy subscribers to the new topic"
+msgstr "Abonnenten in neues Thema kopieren"
+
+#: bbpress/form-topic-split.php:81
+#@ firmasite
+msgid "Copy favoriters to the new topic"
+msgstr "Favoriten in das neue Thema kopieren"
+
+#: bbpress/form-topic-split.php:86
+#@ firmasite
+msgid "Copy topic tags to the new topic"
+msgstr "Themen-Schlagwörter in das neue Thema kopieren"
+
+#: bbpress/form-topic-tag.php:18
+#, php-format
+#@ firmasite
+msgid "Manage Tag: \"%s\""
+msgstr "Schlagwort verwalten: \"%s\""
+
+#: bbpress/form-topic-tag.php:25
+#@ firmasite
+msgid "Leave the slug empty to have one automatically generated."
+msgstr "Diesen Titel leer lassen, um automatisch einen zu generieren."
+
+#: bbpress/form-topic-tag.php:29
+#@ firmasite
+msgid "Changing the slug affects its permalink. Any links to the old slug will stop working."
+msgstr "Die Änderung des Titels wirkt sich auf dessen Permalink aus. Alle Links zum alten Titel werden nicht mehr funktionieren."
+
+#: bbpress/form-topic-tag.php:40
+#@ firmasite
+msgid "Slug:"
+msgstr "URL-Titel (Slug):"
+
+#: bbpress/form-topic-tag.php:62
+#@ firmasite
+msgid "Merging tags together cannot be undone."
+msgstr "Das Zusammenführen von Schlagwörtern kann nicht rückgängig gemacht werden."
+
+#: bbpress/form-topic-tag.php:68
+#@ firmasite
+msgid "Existing tag:"
+msgstr "Vorhandenes Schlagwort:"
+
+#: bbpress/form-topic-tag.php:73
+#, php-format
+#@ firmasite
+msgid "Are you sure you want to merge the \"%s\" tag into the tag you specified?"
+msgstr "Sind Sie sicher, dass Sie das Schlagwort \"%s\" mit dem markierten Schlagwort zusammenführen wollen?"
+
+#: bbpress/form-topic-tag.php:91
+#@ firmasite
+msgid "This does not delete your topics. Only the tag itself is deleted."
+msgstr "Dies wird Ihre Themen nicht löschen. Nur das Schlagwort selbst wird gelöscht."
+
+#: bbpress/form-topic-tag.php:94
+#@ firmasite
+msgid "Deleting a tag cannot be undone."
+msgstr "Das Löschen eines Schlagwortes kann nicht rückgängig gemacht werden."
+
+#: bbpress/form-topic-tag.php:95
+#@ firmasite
+msgid "Any links to this tag will no longer function."
+msgstr "Alle Links zu diesem Schlagwort werden nicht mehr funktionieren."
+
+#: bbpress/form-topic-tag.php:101
+#, php-format
+#@ firmasite
+msgid "Are you sure you want to delete the \"%s\" tag? This is permanent and cannot be undone."
+msgstr "Sind Sie sicher, dass Sie das Schlagwort \"%s\"  löschen wollen? Diese Aktion kann nicht rückgängig gemacht werden ..."
+
+#: bbpress/form-topic.php:43
+#, php-format
+#@ firmasite
+msgid "Create New Topic in &ldquo;%s&rdquo;"
+msgstr "Neues Thema erstellen in &ldquo;%s&rdquo;"
+
+#: bbpress/form-topic.php:43
+#@ firmasite
+msgid "Create New Topic"
+msgstr "Neues Thema erstellen"
+
+#: bbpress/form-topic.php:53
+#@ firmasite
+msgid "This forum is marked as closed to new topics, however your posting capabilities still allow you to do so."
+msgstr "Dieses Forum ist für neue Themen geschlossen, obwohl die Veröffentlichungsfunktionen diese weiterhin zulassen."
+
+#: bbpress/form-topic.php:77
+#, php-format
+#@ firmasite
+msgid "Topic Title (Maximum Length: %d):"
+msgstr "Themen-Titel (Maximale Länge: %d Zeichen):"
+
+#: bbpress/form-topic.php:114
+#@ firmasite
+msgid "Topic Tags:"
+msgstr "Themen-Schlagwörter:"
+
+#: bbpress/form-topic.php:146
+#@ firmasite
+msgid "Topic Type:"
+msgstr "Thementyp:"
+
+#: bbpress/form-topic.php:248
+#@ firmasite
+msgid "You must be logged in to create new topics."
+msgstr "Sie müssen angemeldet sein, um neue Themen erstellen zu können."
+
+#: bbpress/form-user-edit.php:130
+#, php-format
+#@ firmasite
+msgid "There is a pending email address change to <code>%1$s</code>. <a href=\"%2$s\">Cancel</a>"
+msgstr "Es gibt eine ausstehende E-Mail-Adress-Änderung in <code>%1$s</code>. <a href=\"%2$s\">Abbrechen</a>"
+
+#: bbpress/form-user-login.php:28
+#@ firmasite
+msgid "Keep me signed in"
+msgstr "Angemeldet bleiben"
+
+#: bbpress/form-user-lost-pass.php:27
+#@ firmasite
+msgid "Reset My Password"
+msgstr "Mein Passwort zurücksetzen"
+
+#: bbpress/form-user-register.php:14
+#: registration/register.php:28
+#@ firmasite
+msgid "Create an Account"
+msgstr "Benutzerkonto erstellen"
+
+#: bbpress/form-user-register.php:17
+#@ firmasite
+msgid "Your username must be unique, and cannot be changed later."
+msgstr "Der Benutzername muss einzigartig sein und kann später nicht geändert werden."
+
+#: bbpress/form-user-register.php:18
+#@ firmasite
+msgid "We use your email address to email you a secure password and verify your account."
+msgstr "Ihre E-Mail-Adresse wird verwendet, um Ihnen ein sicheres Passwort zuzusenden und Ihr Benutzerkonto zu bestätigen."
+
+#: bbpress/loop-search-topic.php:58
+#: bbpress/loop-single-topic.php:65
+#, php-format
+#@ firmasite
+msgid "Started by: %1$s"
+msgstr "Gestartet von: %1$s"
+
+#: bbpress/loop-search-topic.php:83
+#: bbpress/loop-single-topic.php:90
+#, php-format
+#@ firmasite
+msgid "in: <a href=\"%1$s\">%2$s</a>"
+msgstr "in: <a href=\"%1$s\">%2$s</a>"
+
+#: bbpress/loop-search-forum.php:52
+#: bbpress/loop-search-topic.php:54
+#: bbpress/loop-single-forum.php:52
+#: bbpress/loop-single-topic.php:61
+#@ firmasite
+msgid "Replies"
+msgstr "Antworten"
+
+#: bbpress/content-single-topic-lead.php:18
+#: bbpress/content-single-topic-lead.php:90
+#@ firmasite
+msgid "Creator"
+msgstr "Verfasser"
+
+#: functions/bbpress.php:143
+#@ firmasite
+msgid "No Topics"
+msgstr "Keine Themen"
+
+#: bbpress/form-forum.php:123
+#@ firmasite
+msgid "(No Parent)"
+msgstr "(kein übergeordnetes)"
+
+#: bbpress/form-user-edit.php:103
+#: bbpress/form-user-edit.php:106
+#@ firmasite
+msgid "Account"
+msgstr "Benutzerkonto"
+
+#: functions/customizer.php:85
+#@ firmasite
+msgid "Logo"
+msgstr "Logo"
+
+#: blogs/index.php:58
+#: groups/index.php:61
+#: members/index.php:61
+#: members/single/blogs.php:23
+#: members/single/friends.php:24
+#: members/single/groups.php:25
+#@ firmasite
+msgid "Alphabetical"
+msgstr "Alphabetisch"
+
+#: functions/buddypress.php:128
+#@ firmasite
+msgid "Accepted"
+msgstr "Angenommen"
+
+#: groups/create.php:284
+#@ firmasite
+msgid "Next Step"
+msgstr "Nächster Schritt"
+
+#: functions/init.php:26
+#@ firmasite
+msgid "Footer Menu"
+msgstr "Fußzeile-Menü"
+
+#: blogs/index.php:57
+#: members/single/blogs.php:22
+#@ firmasite
+msgid "Newest"
+msgstr "Neu"
+
+#: templates/no-results.php:23
+#@ firmasite
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tut mir Leid, aber zu Ihrem Suchbegriff konnte nichts gefunden werden. Versuchen Sie es doch noch einmal mit anderen Suchbegriffen."
+
+#: templates/no-results.php:28
+#@ firmasite
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Wie es scheint, können wir nicht finden, wonach Sie suchen. Vielleicht hilft die Suchfunktion."
+
+#: functions/init.php:22
+#@ firmasite
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: templates/footer.php:52
+#, php-format
+#@ firmasite
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: members/single/settings/general.php:77
+#@ firmasite
+msgid "Repeat New Password"
+msgstr "Neues Passwort wiederholen"
+
+#: bbpress/form-user-edit.php:45
+#@ firmasite
+msgid "Display Name"
+msgstr "Öffentlicher Name"
+
+#: bbpress/form-user-edit.php:160
+#: bbpress/form-user-edit.php:163
+#@ firmasite
+msgid "User Role"
+msgstr "Benutzerrolle"
+
+#: registration/register.php:68
+#@ firmasite
+msgid "Confirm Password"
+msgstr "Gewähltes Passwort bitte wiederholen"
+
+#: bbpress/form-user-edit.php:24
+#@ firmasite
+msgid "First Name"
+msgstr "Vorname"
+
+#: bbpress/form-user-edit.php:31
+#@ firmasite
+msgid "Last Name"
+msgstr "Nachname"
+
+#: bbpress/form-user-login.php:14
+#: bbpress/form-user-login.php:35
+#@ firmasite
+msgid "Log In"
+msgstr "Anmelden"
+
+#: bbpress/form-user-edit.php:118
+#: bbpress/form-user-register.php:28
+#: functions/template-tags.php:165
+#@ firmasite
+msgid "Email"
+msgstr "E-Mail"
+
+#: bbpress/form-protected.php:14
+#@ firmasite
+msgid "Protected"
+msgstr "Geschützt"
+
+#. translators: "started by [poster] in [forum]
+#: forums/forums-loop.php:72
+#, php-format
+#@ firmasite
+msgid "in %1$s"
+msgstr "in %1$s"
+
+#: templates/footer.php:52
+#@ firmasite
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: functions/template-tags.php:112
+#, php-format
+#@ firmasite
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">schreibt:</span>"
+
+#: functions/template-tags.php:85
+#@ firmasite
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions/class-tgm-plugin-activation.php:1140
+#@ firmasite
+msgid "Required"
+msgstr "Erforderlich"
+
+#: groups/create.php:162
+#: groups/single/admin.php:136
+#: members/single/profile/change-avatar.php:18
+#@ firmasite
+msgid "Upload Image"
+msgstr "Profilbild hochladen"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#: functions/class-tgm-plugin-activation.php:2027
+#@ firmasite
+msgid "Show Details"
+msgstr "Details anzeigen"
+
+#: functions/class-tgm-plugin-activation.php:2018
+#: functions/class-tgm-plugin-activation.php:2027
+#@ firmasite
+msgid "Hide Details"
+msgstr "Details verstecken"
+
+#: functions/customizer.php:362
+#@ firmasite
+msgid "Menus"
+msgstr "Menüs"
+
+#: registration/register.php:258
+#@ firmasite
+msgid "Site Title"
+msgstr "Seitentitel"
+
+#: activity/post-form.php:41
+#: members/single/profile/profile-wp.php:8
+#@ firmasite
+msgid "My Profile"
+msgstr "Mein Profil"
+
+#: registration/register.php:40
+#@ firmasite
+msgid "Account Details"
+msgstr "Details Benutzerkonto"
+
+#: functions/customizer.php:251
+#@ firmasite
+msgid "Theme Settings"
+msgstr "Theme Einstellungen"
+
+#: functions/showcase.php:241
+#: templates/bbpress.php:19
+#: templates/post/loop_excerpt/loop-image.php:22
+#: templates/post/loop_excerpt/loop.php:25
+#: templates/post/loop_list/loop-aside.php:17
+#: templates/post/loop_list/loop-audio.php:17
+#: templates/post/loop_list/loop-chat.php:17
+#: templates/post/loop_list/loop-image.php:22
+#: templates/post/loop_list/loop-link.php:25
+#: templates/post/loop_list/loop-quote.php:17
+#: templates/post/loop_list/loop-status.php:17
+#: templates/post/loop_list/loop.php:21
+#: templates/post/loop_tile/loop.php:29
+#: templates/post/promotionbar/loop.php:17
+#: templates/post/showcase/loop.php:23
+#: templates/post/single.php:19
+#: templates/single-page.php:22
+#: templates/single_full-page.php:23
+#@ firmasite
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions/class-tgm-plugin-activation.php:1893
+#@ firmasite
+msgid "Unpacking the package&#8230;"
+msgstr "Entpacken des Pakets&#8230;"
+
+#: groups/single/forum/edit.php:25
+#@ firmasite
+msgid "Edit:"
+msgstr "Bearbeiten:"
+
+#: groups/single/forum/topic.php:79
+#@ firmasite
+msgid "Permanent link to this post"
+msgstr "Permalink zu diesem Eintrag"
+
+#: functions/customizer.php:172
+#@ firmasite
+msgid "Font"
+msgstr "Schriftart"
+
+#: bbpress/form-user-lost-pass.php:14
+#@ firmasite
+msgid "Lost Password"
+msgstr "Passwort vergessen?"
+
+#: registration/register.php:21
+#@ firmasite
+msgid "User registration is currently not allowed."
+msgstr "Benutzerregistrierung ist derzeit nicht erlaubt."
+
+#: functions/class-tgm-plugin-activation.php:1361
+#@ firmasite
+msgid "Type"
+msgstr "Art"
+
+#: functions/customizer.php:230
+#@ firmasite
+msgid "Theme Style"
+msgstr "Theme Style"
+
+#: activity/index.php:93
+#: groups/single/activity.php:8
+#: members/single/activity.php:18
+#@ firmasite
+msgid "Show:"
+msgstr "Anzeigen:"
+
+#: members/single/messages/compose.php:55
+#@ firmasite
+msgid "Send Message"
+msgstr "Nachricht senden"
+
+#: functions/fix.php:249
+#, php-format
+#@ firmasite
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: templates/footer.php:55
+#@ firmasite
+msgid "Theme:"
+msgstr "Theme:"
+
+#: bbpress/form-anonymous.php:19
+#@ firmasite
+msgid "Author Information"
+msgstr "Autoreninformationen"
+
+#: functions/customizer.php:207
+#@ firmasite
+msgid "Layout"
+msgstr "Layout"
+
+#: templates/bbpress.php:9
+#: templates/post/loop_excerpt/loop-gallery.php:17
+#: templates/post/loop_excerpt/loop-image.php:18
+#: templates/post/loop_excerpt/loop.php:18
+#: templates/post/loop_list/loop-gallery.php:17
+#: templates/post/loop_list/loop-image.php:18
+#: templates/post/loop_list/loop-link.php:21
+#: templates/post/loop_list/loop.php:18
+#: templates/post/loop_tile/loop.php:23
+#: templates/post/single.php:12
+#: templates/single-page.php:15
+#: templates/single_full-page.php:16
+#, php-format
+#@ firmasite
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: templates/no-results.php:13
+#@ firmasite
+msgid "Nothing Found"
+msgstr "Es konnte nichts gefunden werden."
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: forums/forums-loop.php:54
+#: templates/bbpress.php:23
+#: templates/post/loop_excerpt/loop-gallery.php:22
+#: templates/post/loop_excerpt/loop-image.php:27
+#: templates/post/loop_excerpt/loop.php:31
+#: templates/post/loop_list/loop-aside.php:20
+#: templates/post/loop_list/loop-audio.php:20
+#: templates/post/loop_list/loop-chat.php:20
+#: templates/post/loop_list/loop-gallery.php:22
+#: templates/post/loop_list/loop-image.php:27
+#: templates/post/loop_list/loop-link.php:28
+#: templates/post/loop_list/loop-quote.php:20
+#: templates/post/loop_list/loop-status.php:20
+#: templates/post/loop_list/loop.php:25
+#: templates/post/loop_tile/loop.php:35
+#: templates/post/promotionbar/loop.php:21
+#: templates/post/single.php:23
+#: templates/single-page.php:26
+#: templates/single_full-page.php:27
+#@ firmasite
+msgid "Permalink"
+msgstr "Permalink"
+
+#: members/single/settings/general.php:68
+#@ firmasite
+msgid "Password Lost and Found"
+msgstr "Passwort verloren und wiedergefunden"
+
+#: templates/post/loop_list/loop-gallery.php:43
+#: templates/post/loop_list/loop-image.php:47
+#: templates/post/loop_list/loop.php:47
+#@ firmasite
+msgid "Leave a comment"
+msgstr "Hinterlassen Sie einen Kommentar"
+
+#: functions/template-tags.php:106
+#@ firmasite
+msgid "Your comment is awaiting moderation."
+msgstr "Ihr Kommentar wird moderiert."
+
+#. translators: 1: date, 2: time
+#: functions/template-tags.php:100
+#, php-format
+#@ firmasite
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: comments.php:71
+#@ firmasite
+msgid "Comments are closed."
+msgstr "Die Kommentare sind geschlossen."
+
+#: sidebar.php:19
+#@ firmasite
+msgid "Meta"
+msgstr "Meta"
+
+#: templates/post/loop_excerpt/loop.php:28
+#: templates/post/loop_list/loop-aside.php:18
+#: templates/post/loop_list/loop-audio.php:18
+#: templates/post/loop_list/loop-chat.php:18
+#: templates/post/loop_list/loop-link.php:26
+#: templates/post/loop_list/loop-quote.php:18
+#: templates/post/loop_list/loop-status.php:18
+#: templates/post/loop_list/loop.php:22
+#: templates/post/single.php:20
+#: templates/single-page.php:23
+#: templates/single_full-page.php:24
+#@ firmasite
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: bbpress/form-anonymous.php:40
+#@ firmasite
+msgid "Website:"
+msgstr "Webseite:"
+
+#: functions/buddypress.php:129
+#@ firmasite
+msgid "Rejected"
+msgstr "Abgelehnt"
+
+#: functions/class-tgm-plugin-activation.php:1360
+#@ firmasite
+msgid "Source"
+msgstr "Quelle"
+
+#: bbpress/user-details.php:49
+#@ firmasite
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: bbpress/form-user-lost-pass.php:18
+#@ firmasite
+msgid "Username or Email"
+msgstr "Benutzername oder E-Mail"
+
+#: bbpress/form-user-edit.php:38
+#@ firmasite
+msgid "Nickname"
+msgstr "Pseudonym"
+
+#: members/single/profile/edit.php:27
+#: members/single/profile/edit.php:37
+#: members/single/profile/edit.php:48
+#: members/single/profile/edit.php:61
+#: members/single/profile/edit.php:84
+#: members/single/profile/edit.php:103
+#: members/single/profile/edit.php:114
+#: registration/register.php:43
+#: registration/register.php:51
+#: registration/register.php:60
+#: registration/register.php:68
+#: registration/register.php:98
+#: registration/register.php:109
+#: registration/register.php:121
+#: registration/register.php:135
+#: registration/register.php:159
+#: registration/register.php:178
+#: registration/register.php:190
+#: registration/register.php:249
+#: registration/register.php:258
+#@ firmasite
+msgid "(required)"
+msgstr "(erforderlich)"
+
+#: bbpress/form-user-edit.php:55
+#: bbpress/form-user-edit.php:58
+#@ firmasite
+msgid "Contact Info"
+msgstr "Kontaktinfos"
+
+#: bbpress/form-user-edit.php:84
+#: bbpress/form-user-edit.php:87
+#@ firmasite
+msgid "About Yourself"
+msgstr "Über Sie"
+
+#: bbpress/form-user-edit.php:84
+#: bbpress/form-user-edit.php:87
+#@ firmasite
+msgid "About the user"
+msgstr "Über den Benutzer"
+
+#: bbpress/form-user-edit.php:92
+#@ firmasite
+msgid "Biographical Info"
+msgstr "Biografische Infos"
+
+#: bbpress/form-user-edit.php:139
+#: members/single/settings/general.php:76
+#@ firmasite
+msgid "New Password"
+msgstr "Neues Passwort"
+
+#: bbpress/form-user-edit.php:143
+#@ firmasite
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr "Wenn Sie das Passwort ändern möchten, geben Sie bitte ein Neues ein. Andernfalls das Feld einfach leer lassen."
+
+#: bbpress/form-user-edit.php:146
+#@ firmasite
+msgid "Type your new password again."
+msgstr "Bitte geben Sie Ihr neues Passwort erneut ein."
+
+#: bbpress/form-user-edit.php:195
+#@ firmasite
+msgid "Update Profile"
+msgstr "Profil aktualisieren"
+
+#: bbpress/form-user-edit.php:195
+#@ firmasite
+msgid "Update User"
+msgstr "Benutzer aktualisieren"
+
+#: forums/index.php:105
+#: groups/single/forum/edit.php:47
+#: groups/single/forum.php:75
+#@ firmasite
+msgid "Title:"
+msgstr "Bezeichnung:"
+
+#: bbpress/form-topic-tag.php:45
+#@ firmasite
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: members/single/messages/compose.php:31
+#@ firmasite
+msgid "Subject"
+msgstr "Betreff"
+
+#: groups/single/admin.php:31
+#: registration/register.php:265
+#@ firmasite
+msgid "Yes"
+msgstr "Ja"
+
+#: functions/init.php:62
+#@ firmasite
+msgid "Footer"
+msgstr "Footer"
+
+#: functions/init.php:53
+#@ firmasite
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: sidebar.php:12
+#@ firmasite
+msgid "Archives"
+msgstr "Archiv"
+
+#: members/single/profile/edit.php:71
+#: members/single/profile/edit.php:90
+#: registration/register.php:146
+#: registration/register.php:166
+#@ firmasite
+msgid "Clear"
+msgstr "Löschen"
+
+#: bbpress/form-forum.php:100
+#@ firmasite
+msgid "Status:"
+msgstr "Status:"
+
+#: forums/index.php:135
+#@ firmasite
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: bbpress/form-forum.php:109
+#@ firmasite
+msgid "Visibility:"
+msgstr "Sichtbar:"
+
+#: bbpress/feedback-no-access.php:13
+#@ firmasite
+msgid "Private"
+msgstr "Privat"
+
+#: bbpress/form-topic-tag.php:35
+#@ firmasite
+msgid "Name:"
+msgstr "Name:"
+
+#: registration/register.php:249
+#@ firmasite
+msgid "Blog URL"
+msgstr "Blog-URL"
+
+#: groups/create.php:298
+#@ firmasite
+msgid "Finish"
+msgstr "Fertigstellen"
+
+#: functions/buddypress.php:283
+#@ firmasite
+msgid "Change"
+msgstr "Ändern"
+
+#: bbpress/form-user-edit.php:14
+#: bbpress/form-user-edit.php:19
+#: functions/template-tags.php:163
+#: members/single/profile/profile-wp.php:15
+#@ firmasite
+msgid "Name"
+msgstr "Name"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: activity/entry.php:39
+#: functions/buddypress.php:134
+#@ firmasite
+msgid "View"
+msgid_plural "Views"
+msgstr[0] "Aufruf"
+msgstr[1] "Aufrufe"
+
+#: members/single/settings/general.php:68
+#@ firmasite
+msgid "Lost your password?"
+msgstr "Passwort vergessen?"
+
+#: members/single/settings/capabilities.php:71
+#@ firmasite
+msgid "Save"
+msgstr "Speichern"
+
+#: functions/buddypress.php:102
+#: functions/buddypress.php:133
+#: functions/buddypress.php:293
+#@ firmasite
+msgid "Close"
+msgstr "Schliessen"
+
+#: activity/index.php:101
+#: members/single/activity.php:28
+#@ firmasite
+msgid "Comments"
+msgstr "Kommentare"
+
+#: functions/promotionbar.php:249
+#@ firmasite
+msgid "Title"
+msgstr "Bezeichnung"
+
+#: registration/activate.php:37
+#@ firmasite
+msgid "Activation Key:"
+msgstr "Aktivierungsschlüssel:"
+
+#: functions/class-tgm-plugin-activation.php:1362
+#@ firmasite
+msgid "Status"
+msgstr "Status"
+
+#: groups/create.php:181
+#: groups/single/admin.php:162
+#: members/single/profile/change-avatar.php:39
+#@ firmasite
+msgid "Crop Image"
+msgstr "Profilbild schneiden"
+
+#: groups/single/admin.php:32
+#: registration/register.php:266
+#@ firmasite
+msgid "No"
+msgstr "Nein"
+
+#: bbpress/form-user-edit.php:190
+#: groups/single/admin.php:37
+#: groups/single/admin.php:122
+#: groups/single/forum/edit.php:58
+#: groups/single/forum/edit.php:74
+#: members/single/profile/edit.php:153
+#: members/single/settings/general.php:82
+#: members/single/settings/notifications.php:71
+#@ firmasite
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: bbpress/user-details.php:41
+#@ firmasite
+msgid "Favorites"
+msgstr "Favoriten"
+
+#: bbpress/form-user-edit.php:63
+#: functions/template-tags.php:167
+#: members/single/profile/profile-wp.php:33
+#@ firmasite
+msgid "Website"
+msgstr "Webseite"
+
+#: bbpress/user-details.php:28
+#: bbpress/user-profile.php:15
+#@ firmasite
+msgid "Profile"
+msgstr "Profil"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: activity/comment.php:32
+#: groups/single/forum/edit.php:10
+#@ firmasite
+msgid "Reply"
+msgid_plural "Replies"
+msgstr[0] "Antwort"
+msgstr[1] "Antworten"
+
+#: bbpress/form-topic-tag.php:22
+#@ firmasite
+msgid "Rename"
+msgstr "Umbenennen"
+
+#: bbpress/user-details.php:32
+#@ firmasite
+msgid "Topics Started"
+msgstr "Begonnene Themen"
+
+#: bbpress/form-user-register.php:36
+#@ firmasite
+msgid "Register"
+msgstr "Anmelden"
+
+#: bbpress/form-reply.php:85
+#@ firmasite
+msgid "Tags:"
+msgstr "Schlagwörter:"
+
+#: functions/buddypress.php:132
+#@ firmasite
+msgid "comments"
+msgstr "Kommentare"
+
+#: bbpress/loop-search-forum.php:50
+#: bbpress/loop-single-forum.php:50
+#@ firmasite
+msgid "Topics"
+msgstr "Themen"
+
+#: activity/index.php:100
+#: bbpress/loop-search-forum.php:52
+#: bbpress/loop-search-topic.php:54
+#: bbpress/loop-single-forum.php:52
+#: bbpress/loop-single-topic.php:61
+#: forums/forums-loop.php:40
+#: functions/buddypress.php:193
+#: members/single/activity.php:27
+#@ firmasite
+msgid "Posts"
+msgstr "Beiträge"
+
+#: bbpress/user-details.php:54
+#: templates/post/loop_list/loop-gallery.php:55
+#: templates/post/loop_list/loop-image.php:59
+#: templates/post/loop_list/loop.php:59
+#: templates/post/single.php:53
+#: templates/single-page.php:29
+#: templates/single_full-page.php:30
+#@ firmasite
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: activity/comment.php:38
+#: bbpress/form-topic-tag.php:88
+#: bbpress/form-topic-tag.php:101
+#: members/single/messages/messages-loop.php:55
+#: members/single/messages/single.php:28
+#@ firmasite
+msgid "Delete"
+msgstr "Löschen"
+
+#: members/single/messages/compose.php:38
+#@ firmasite
+msgid "Message"
+msgstr "Nachricht"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: bbpress/content-single-topic-lead.php:22
+#: bbpress/content-single-topic-lead.php:94
+#: forums/forums-loop.php:39
+#@ firmasite
+msgid "Topic"
+msgid_plural "Topics"
+msgstr[0] "Thema"
+msgstr[1] "Themen"
+
+#: bbpress/loop-search-topic.php:63
+#: bbpress/loop-single-topic.php:70
+#: forums/forums-loop.php:41
+#: functions/bbpress.php:111
+#: functions/bbpress.php:141
+#@ firmasite
+msgid "Freshness"
+msgstr "Zuletzt aktiv"
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: activity/entry.php:109
+#@ firmasite
+msgid "Post"
+msgid_plural "Posts"
+msgstr[0] "Beitrag"
+msgstr[1] "Beiträge"
+
+#: members/single/settings/general.php:59
+#@ firmasite
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: functions/customizer-call.php:76
+#: functions/customizer.php:313
+#: functions/customizer.php:334
+#: functions/showcase.php:220
+#@ firmasite
+msgid "Default"
+msgstr "Standard"
+
+#: functions/class-tgm-plugin-activation.php:1359
+#@ firmasite
+msgid "Plugin"
+msgstr "Plugin"
+
+#: functions/class-tgm-plugin-activation.php:1381
+#: registration/activate.php:41
+#@ firmasite
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: bbpress/user-topics-created.php:28
+#@ firmasite
+msgid "You have not created any topics."
+msgstr "Sie haben noch keine Themen erstellt."
+
+#: bbpress/user-topics-created.php:28
+#@ firmasite
+msgid "This user has not created any topics."
+msgstr "Dieser Benutzer hat keine Themen erstellt."
+
+#: activity/index.php:88
+#: groups/single/activity.php:3
+#@ firmasite
+msgid "RSS"
+msgstr "RSS-Feed"
+
+#: activity/index.php:88
+#: groups/single/activity.php:3
+#@ firmasite
+msgid "RSS Feed"
+msgstr "RSS-Feed"
+
+#: bbpress/form-topic-tag.php:59
+#: bbpress/form-topic-tag.php:73
+#@ firmasite
+msgid "Merge"
+msgstr "Zusammenführen"
+
+#. translators: no option picked in select box
+#: forums/index.php:117
+#@ firmasite
+msgid "----"
+msgstr "----"
+
+#: members/single/messages/single.php:22
+#, php-format
+#@ firmasite
+msgid "Conversation between %s and you."
+msgstr "Unterhaltung zwischen %s und Ihnen."
+
+#: members/single/messages/single.php:18
+#@ firmasite
+msgid "You are alone in this conversation."
+msgstr "Sie sind allein in dieser Unterhaltung."
+
+#. translators: "started by [poster] in [forum]
+#: forums/forums-loop.php:61
+#, php-format
+#@ firmasite
+msgid "Started by %1$s"
+msgstr "Begonnen von %1$s"
+
+#: groups/single/forum/topic.php:65
+#, php-format
+#@ firmasite
+msgid "%1$s said %2$s:"
+msgstr "%1$s sagte %2$s:"
+
+#. translators: 1: user profile link, 2: user name, 3: activity permalink, 4: activity timestamp
+#: activity/comment.php:24
+#, php-format
+#@ firmasite
+msgid "<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr "<a href=\"%1$s\">%2$s</a> antwortete <a href=\"%3$s\" class=\"activity-time-since\"><span class=\"time-since\">%4$s</span></a>"
+
+#: groups/create.php:43
+#: groups/single/admin.php:19
+#@ firmasite
+msgid "Group Description (required)"
+msgstr "Beschreibung der Gruppe (erforderlich)"
+
+#: groups/create.php:40
+#: groups/single/admin.php:16
+#@ firmasite
+msgid "Group Name (required)"
+msgstr "Name der Gruppe (erforderlich)"
+
+#: forums/index.php:41
+#, php-format
+#@ firmasite
+msgid "All Topics <span>%s</span>"
+msgstr "Alle Themen <span>%s</span>"
+
+#: groups/index.php:36
+#, php-format
+#@ firmasite
+msgid "All Groups <span>%s</span>"
+msgstr "Alle Gruppen <span>%s</span>"
+
+#: activity/index.php:40
+#: members/index.php:34
+#, php-format
+#@ firmasite
+msgid "All Members <span>%s</span>"
+msgstr "Alle Mitglieder <span>%s</span>"
+
+#: forums/index.php:45
+#, php-format
+#@ firmasite
+msgid "My Topics <span>%s</span>"
+msgstr "Meine Themen <span>%s</span>"
+
+#: blogs/index.php:38
+#, php-format
+#@ firmasite
+msgid "My Sites <span>%s</span>"
+msgstr "Meine Seiten <span>%s</span>"
+
+#: assets/_inc/ajax.php:789
+#, php-format
+#@ firmasite
+msgid "Sent %s"
+msgstr "Gesendet %s"
+
+#: activity/entry.php:66
+#, php-format
+#@ firmasite
+msgid "Comment <span>%s</span>"
+msgstr "Kommentar <span>%s</span>"
+
+#: activity/index.php:50
+#: members/index.php:38
+#, php-format
+#@ firmasite
+msgid "My Friends <span>%s</span>"
+msgstr "Meine Freunde <span>%s</span>"
+
+#: blogs/index.php:34
+#, php-format
+#@ firmasite
+msgid "All Sites <span>%s</span>"
+msgstr "Alle Seiten <span>%s</span>"
+
+#: activity/index.php:62
+#: groups/index.php:40
+#, php-format
+#@ firmasite
+msgid "My Groups <span>%s</span>"
+msgstr "Meine Gruppen <span>%s</span>"
+
+#: activity/index.php:72
+#, php-format
+#@ firmasite
+msgid "My Favorites <span>%s</span>"
+msgstr "Meine Favoriten <span>%s</span>"
+
+#: groups/create.php:277
+#@ firmasite
+msgid "Back to Previous Step"
+msgstr "Zurück zum vorangegangenen Schritt"
+
+#: groups/groups-loop.php:43
+#: groups/single/group-header.php:41
+#, php-format
+#@ firmasite
+msgid "active %s"
+msgstr "aktiv %s"
+
+#: groups/create.php:110
+#: groups/single/admin.php:109
+#@ firmasite
+msgid "Group admins and mods only"
+msgstr "Nur Gruppenadministratoren und -moderatoren"
+
+#: groups/create.php:116
+#: groups/single/admin.php:114
+#@ firmasite
+msgid "Group admins only"
+msgstr "Nur Gruppenadministratoren"
+
+#: groups/create.php:99
+#: groups/single/admin.php:99
+#@ firmasite
+msgid "Which members of this group are allowed to invite others?"
+msgstr "Welchen Mitgliedern dieser Gruppe ist es erlaubt, andere Benutzer einzuladen?"
+
+#: groups/create.php:104
+#: groups/single/admin.php:104
+#@ firmasite
+msgid "All group members"
+msgstr "Alle Gruppenmitglieder"
+
+#: groups/create.php:97
+#: groups/single/admin.php:97
+#@ firmasite
+msgid "Group Invitations"
+msgstr "Gruppeneinladungen"
+
+#: registration/register.php:245
+#@ firmasite
+msgid "Yes, I'd like to create a new site"
+msgstr "Ja, ich will eine neue Seite erstellen"
+
+#: blogs/create.php:33
+#@ firmasite
+msgid "Site registration is currently disabled"
+msgstr "Die Registrierung auf der Webseite ist derzeit deaktiviert"
+
+#: blogs/blogs-loop.php:90
+#@ firmasite
+msgid "Sorry, there were no sites found."
+msgstr "Entschuldigung, es wurden keine Seiten gefunden."
+
+#: registration/register.php:262
+#@ firmasite
+msgid "I would like my site to appear in search engines, and in public listings around this network."
+msgstr "I möchte, dass meine Webseite in Suchmaschinen erscheint und öffentlichen Verzeichnissen um dieses Netzwerk herum."
+
+#: blogs/create.php:22
+#: blogs/index.php:22
+#@ firmasite
+msgid "Create a Site"
+msgstr "Erstellen Sie eine Webseite"
+
+#: blogs/create.php:22
+#: blogs/index.php:22
+#@ firmasite
+msgid "Site Directory"
+msgstr "Webseitenverzeichnis"
+
+#: activity/index.php:114
+#: members/single/activity.php:50
+#@ firmasite
+msgid "New Groups"
+msgstr "Neue Gruppen"
+
+#: activity/index.php:95
+#: groups/single/activity.php:10
+#: members/single/activity.php:20
+#@ firmasite
+msgid "Everything"
+msgstr "Alles"
+
+#: activity/index.php:96
+#: groups/single/activity.php:11
+#: members/single/activity.php:21
+#@ firmasite
+msgid "Updates"
+msgstr "Updates"
+
+#: activity/index.php:115
+#: groups/single/activity.php:18
+#: members/single/activity.php:51
+#@ firmasite
+msgid "Group Memberships"
+msgstr "Gruppenmitgliedschaften"
+
+#: activity/index.php:108
+#: groups/single/activity.php:15
+#: members/single/activity.php:44
+#@ firmasite
+msgid "Forum Replies"
+msgstr "Forum-Antworten"
+
+#: activity/index.php:125
+#@ firmasite
+msgid "New Members"
+msgstr "Neue Mitglieder"
+
+#: activity/index.php:107
+#: groups/single/activity.php:14
+#: members/single/activity.php:43
+#@ firmasite
+msgid "Forum Topics"
+msgstr "Forum-Themen"
+
+#: activity/index.php:121
+#: members/single/activity.php:35
+#@ firmasite
+msgid "Friendships"
+msgstr "Freundschaften"
+
+#: groups/single/forum/topic.php:32
+#@ firmasite
+msgid "Topic tags:"
+msgstr "Themen-Schlagwörter:"
+
+#: forums/index.php:24
+#@ firmasite
+msgid "Forums Directory"
+msgstr "Forenverzeichnis"
+
+#: forums/index.php:101
+#@ firmasite
+msgid "Create New Topic:"
+msgstr "Neues Thema erstellen"
+
+#: groups/single/forum/edit.php:16
+#: groups/single/forum/topic.php:17
+#: groups/single/forum.php:27
+#@ firmasite
+msgid "Forum Directory"
+msgstr "Forenverzeichnis"
+
+#: members/single/settings/notifications.php:59
+#@ firmasite
+msgid "Email Notification"
+msgstr "E-Mail-Benachrichtigung"
+
+#: groups/single/admin.php:190
+#: groups/single/admin.php:217
+#, php-format
+#@ firmasite
+msgid "Profile picture of %s"
+msgstr "Profilbild von %s"
+
+#: members/single/settings/general.php:67
+#@ firmasite
+msgid "Current Password <span>(required to update email or change current password)</span>"
+msgstr "Aktuelles Passwort <span>(erforderlich, um die E-Mail-Adresse zu aktualisieren oder das derzeitige Passwort selbst zu ändern)</span>"
+
+#: activity/post-form.php:29
+#, php-format
+#@ firmasite
+msgid "What's new, %s?"
+msgstr "Was gibt's Neues, %s?"
+
+#: groups/single/admin.php:281
+#@ firmasite
+msgid "Remove from group"
+msgstr "Aus der Gruppe entfernen"
+
+#: groups/single/admin.php:271
+#@ firmasite
+msgid "Unban this member"
+msgstr "Dieses Mitglied entsperren"
+
+#: groups/single/admin.php:281
+#@ firmasite
+msgid "Remove this member"
+msgstr "Dieses Mitglied entfernen"
+
+#: assets/_inc/ajax.php:617
+#@ firmasite
+msgid "Friendship could not be canceled."
+msgstr "Freundschaft konnte nicht beendet werden."
+
+#: assets/_inc/ajax.php:619
+#: assets/_inc/ajax.php:637
+#@ firmasite
+msgid "Add Friend"
+msgstr "Freund hinzufügen"
+
+#: assets/_inc/ajax.php:736
+#@ firmasite
+msgid "Request Membership"
+msgstr "Mitgliedschaft anfragen"
+
+#: groups/single/send-invites.php:60
+#@ firmasite
+msgid "Send Invites"
+msgstr "Einladungen senden"
+
+#: groups/single/admin.php:365
+#@ firmasite
+msgid "Delete Group"
+msgstr "Gruppe löschen"
+
+#: members/single/groups/invites.php:14
+#, php-format
+#@ firmasite
+msgid "%s members"
+msgstr "%s Mitglieder"
+
+#: groups/single/admin.php:195
+#: groups/single/admin.php:222
+#@ firmasite
+msgid "Demote to Member"
+msgstr "Zum Mitglied degradieren"
+
+#: groups/single/admin.php:221
+#: groups/single/admin.php:277
+#@ firmasite
+msgid "Promote to Admin"
+msgstr "Zum Administrator befördern"
+
+#: assets/_inc/ajax.php:715
+#@ firmasite
+msgid "Leave Group"
+msgstr "Gruppe verlassen"
+
+#: assets/_inc/ajax.php:734
+#@ firmasite
+msgid "Join Group"
+msgstr "Gruppe beitreten"
+
+#: assets/_inc/ajax.php:883
+#@ firmasite
+msgid "Messages deleted."
+msgstr "Nachrichten gelöscht."
+
+#: assets/_inc/ajax.php:291
+#@ firmasite
+msgid "There was a problem posting your update, please try again."
+msgstr "Es trat ein Fehler auf beim Senden Ihres Updates. Bitte versuchen Sie es noch einmal."
+
+#: assets/_inc/ajax.php:393
+#: assets/_inc/ajax.php:429
+#@ firmasite
+msgid "There was a problem when deleting. Please try again."
+msgstr "Es trat ein Fehler auf beim Löschen. Bitte versuchen Sie es noch einmal."
+
+#: activity/entry.php:78
+#: assets/_inc/ajax.php:492
+#: assets/_inc/ajax.php:513
+#: functions/buddypress.php:136
+#@ firmasite
+msgid "Remove Favorite"
+msgstr "Aus den Favoriten entfernen"
+
+#: assets/_inc/ajax.php:582
+#: groups/create.php:238
+#: groups/single/send-invites.php:42
+#@ firmasite
+msgid "Remove Invite"
+msgstr "Einladung aufheben"
+
+#: assets/_inc/ajax.php:644
+#@ firmasite
+msgid "Request Pending"
+msgstr "Anfrage läuft"
+
+#: assets/_inc/ajax.php:664
+#@ firmasite
+msgid "There was a problem accepting that request. Please try again."
+msgstr "Es trat ein Fehler auf beim Bestätigen der Anfrage. Bitte versuchen Sie es noch einmal."
+
+#: assets/_inc/ajax.php:683
+#@ firmasite
+msgid "There was a problem rejecting that request. Please try again."
+msgstr "Es trat ein Fehler auf beim Ablehnen der Anfrage. Bitte versuchen Sie es noch einmal."
+
+#: assets/_inc/ajax.php:713
+#@ firmasite
+msgid "Error joining group"
+msgstr "Es gab einen Fehler beim Betreten der Gruppe"
+
+#: assets/_inc/ajax.php:722
+#@ firmasite
+msgid "Error requesting membership"
+msgstr "Es gab einen Fehler beim Anfragen der Mitgliedschaft"
+
+#: assets/_inc/ajax.php:724
+#@ firmasite
+msgid "Membership Requested"
+msgstr "Mitgliedschafts angefragt"
+
+#: assets/_inc/ajax.php:732
+#@ firmasite
+msgid "Error leaving group"
+msgstr "Es gab einen Fehler beim Verlassen der Gruppe"
+
+#: assets/_inc/ajax.php:755
+#@ firmasite
+msgid "There was a problem closing the notice."
+msgstr "Es ist ein Problem beim Schliessen der Meldung aufgetreten."
+
+#: assets/_inc/ajax.php:806
+#@ firmasite
+msgid "There was a problem sending that reply. Please try again."
+msgstr "Es trat ein Fehler auf beim Senden der Antwort. Bitte versuchen Sie es noch einmal."
+
+#: assets/_inc/ajax.php:824
+#@ firmasite
+msgid "There was a problem marking messages as unread."
+msgstr "Es ist ein Problem beim Kennzeichnen der Nachrichten als ungelesen aufgetreten."
+
+#: assets/_inc/ajax.php:849
+#@ firmasite
+msgid "There was a problem marking messages as read."
+msgstr "Es ist ein Problem beim Kennzeichnen der Nachrichten als gelesen aufgetreten."
+
+#: assets/_inc/ajax.php:874
+#@ firmasite
+msgid "There was a problem deleting messages."
+msgstr "Es ist ein Problem beim Löschen der Nachrichten aufgetreten."
+
+#: activity/activity-loop.php:57
+#@ firmasite
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr "Entschuldigung, es wurde keine Aktivität gefunden. Probieren Sie es doch bitte mit einem anderen Filter."
+
+#: activity/entry.php:74
+#@ firmasite
+msgid "Mark as Favorite"
+msgstr "Als Favorit kennzeichnen"
+
+#: activity/entry.php:109
+#@ firmasite
+msgid "or press esc to cancel."
+msgstr "oder drücke ESC um Abzubrechen."
+
+#: activity/index.php:22
+#@ firmasite
+msgid "Site Activity"
+msgstr "Globale Aktivitäten"
+
+#: activity/index.php:40
+#@ firmasite
+msgid "The public activity for everyone on this site."
+msgstr "Aktivitäten aller Benutzer anzeigen."
+
+#: activity/index.php:50
+#@ firmasite
+msgid "The activity of my friends only."
+msgstr "Nur Aktivitäten meiner Freunde anzeigen."
+
+#: activity/index.php:62
+#@ firmasite
+msgid "The activity of groups I am a member of."
+msgstr "Aktivitäten der Gruppen, in denen ich Mitglied bin."
+
+#: activity/index.php:72
+#@ firmasite
+msgid "The activity I've marked as a favorite."
+msgstr "Nur Aktivitäten anzeigen, die ich als Favoriten gekennzeichnet habe."
+
+#: activity/index.php:78
+#@ firmasite
+msgid "Activity that I have been mentioned in."
+msgstr "Nur Aktivitäten anzeigen, in den ich erwähnt werde."
+
+#: activity/post-form.php:27
+#, php-format
+#@ firmasite
+msgid "What's new in %s, %s?"
+msgstr "Was gibt's Neues in %s, %s?"
+
+#: activity/post-form.php:65
+#@ firmasite
+msgid "Post Update"
+msgstr "Update veröffentlichen"
+
+#: activity/post-form.php:38
+#@ firmasite
+msgid "Post in"
+msgstr "Veröffentlichen in"
+
+#: blogs/index.php:56
+#: forums/index.php:63
+#: groups/index.php:58
+#: groups/single/forum.php:38
+#: members/index.php:56
+#: members/single/blogs.php:21
+#: members/single/forums.php:20
+#: members/single/friends.php:22
+#: members/single/groups.php:22
+#@ firmasite
+msgid "Last Active"
+msgstr "Zuletzt aktiv"
+
+#: forums/forums-loop.php:122
+#@ firmasite
+msgid "Sorry, there were no forum topics found."
+msgstr "Es wurden keine Forenthemen gefunden."
+
+#: groups/single/forum.php:73
+#@ firmasite
+msgid "Post a New Topic:"
+msgstr "Neues Thema eröffnen:"
+
+#: forums/index.php:108
+#: groups/single/forum/edit.php:50
+#: groups/single/forum.php:78
+#@ firmasite
+msgid "Content:"
+msgstr "Inhalt:"
+
+#: forums/index.php:111
+#: groups/single/forum/edit.php:53
+#: groups/single/forum.php:81
+#@ firmasite
+msgid "Tags (comma separated):"
+msgstr "Tags (komma-getrennt):"
+
+#: forums/index.php:114
+#@ firmasite
+msgid "Post In Group Forum:"
+msgstr "Veröffentlichen in der Gruppe:"
+
+#: forums/index.php:134
+#: groups/single/forum.php:87
+#@ firmasite
+msgid "Post Topic"
+msgstr "Thema verfassen"
+
+#: forums/index.php:146
+#, php-format
+#@ firmasite
+msgid "You are not a member of any groups so you don't have any group forums you can post in. To start posting, first find a group that matches the topic subject you'd like to start. If this group does not exist, why not <a href='%s'>create a new group</a>? Once you have joined or created the group you can post your topic in that group's forum."
+msgstr "Sie sind derzeit noch kein Mitglied einer Gruppe, weshalb Sie auch keine Forenbeiträge schreiben können. Um Schreiben zu können, müssen Sie vorher einer Gruppe beitreten, die thematisch passt, oder <a href='%s'>Sie legen eine neue Gruppe an</a>. Sobald das erledigt ist, können Sie Forenbeiträge im jeweiligen Gruppenforum schreiben."
+
+#: forums/index.php:64
+#: groups/single/forum.php:39
+#: members/single/forums.php:21
+#@ firmasite
+msgid "Most Posts"
+msgstr "Meiste Antworten"
+
+#: forums/index.php:65
+#: groups/single/forum.php:40
+#: members/single/forums.php:22
+#@ firmasite
+msgid "Unreplied"
+msgstr "Unbeantwortet"
+
+#: functions/buddypress.php:127
+#@ firmasite
+msgid "My Favorites"
+msgstr "Meine Favoriten"
+
+#: functions/buddypress.php:130
+#@ firmasite
+msgid "Show all comments for this thread"
+msgstr "Alle Kommentare für diesen Thread anzeigen"
+
+#: functions/buddypress.php:131
+#@ firmasite
+msgid "Show all"
+msgstr "Alle anzeigen"
+
+#: groups/create.php:19
+#: groups/index.php:22
+#@ firmasite
+msgid "Create a Group"
+msgstr "Gruppe erstellen"
+
+#: groups/create.php:19
+#: groups/index.php:22
+#@ firmasite
+msgid "Groups Directory"
+msgstr "Gruppenverzeichnis"
+
+#: groups/create.php:128
+#: groups/single/admin.php:52
+#@ firmasite
+msgid "Enable discussion forum"
+msgstr "Forum aktivieren"
+
+#: groups/create.php:132
+#, php-format
+#@ firmasite
+msgid "<strong>Attention Site Admin:</strong> Group forums require the <a href=\"%s\">correct setup and configuration</a> of a bbPress installation."
+msgstr "<strong>Achtung blogübergreifender Administrator:</strong> Gruppenforen benötigen <a href=\"%s\">eine korrekte Installation und ein Einbindung</a> von bbPress."
+
+#: groups/create.php:64
+#: groups/single/admin.php:61
+#@ firmasite
+msgid "Privacy Options"
+msgstr "Einstellungen zur Privatsphäre"
+
+#: groups/create.php:68
+#: groups/single/admin.php:66
+#@ firmasite
+msgid "This is a public group"
+msgstr "Dies ist eine öffentliche Gruppe"
+
+#: groups/create.php:70
+#: groups/single/admin.php:68
+#@ firmasite
+msgid "Any site member can join this group."
+msgstr "Jedes Mitglied dieser Seite kann dieser Gruppe beitreten."
+
+#: groups/create.php:71
+#: groups/create.php:81
+#: groups/single/admin.php:69
+#: groups/single/admin.php:79
+#@ firmasite
+msgid "This group will be listed in the groups directory and in search results."
+msgstr "Diese Gruppe wird im Gruppenverzeichnis und in den Suchergebnissen gelistet."
+
+#: groups/create.php:72
+#: groups/single/admin.php:70
+#@ firmasite
+msgid "Group content and activity will be visible to any site member."
+msgstr "Inhalte und Aktivitäten der Gruppe sind für alle Mitglieder der Seite sichtbar."
+
+#: groups/create.php:78
+#: groups/single/admin.php:76
+#@ firmasite
+msgid "This is a private group"
+msgstr "Das ist eine private Gruppe"
+
+#: groups/create.php:80
+#: groups/single/admin.php:78
+#@ firmasite
+msgid "Only users who request membership and are accepted can join the group."
+msgstr "Ausschliesslich Benutzer, die eine Mitgliedschaft beantragt haben und zugelassen wurden, können der Gruppe beitreten."
+
+#: groups/create.php:82
+#: groups/create.php:92
+#: groups/single/admin.php:80
+#: groups/single/admin.php:90
+#@ firmasite
+msgid "Group content and activity will only be visible to members of the group."
+msgstr "Inhalte und Aktivitäten der Gruppe sind nur für Mitglieder der Gruppe sichtbar."
+
+#: groups/create.php:88
+#: groups/single/admin.php:86
+#@ firmasite
+msgid "This is a hidden group"
+msgstr "Das ist eine unsichtbare Gruppe"
+
+#: groups/create.php:90
+#: groups/single/admin.php:88
+#@ firmasite
+msgid "Only users who are invited can join the group."
+msgstr "Dieser Gruppe können nur Benutzer beitreten, die eingeladen wurden."
+
+#: groups/create.php:91
+#: groups/single/admin.php:89
+#@ firmasite
+msgid "This group will not be listed in the groups directory or search results."
+msgstr "Diese Gruppe wird nicht im Gruppenverzeichnis und in den Suchergebnissen gelistet."
+
+#: groups/create.php:158
+#: groups/single/admin.php:132
+#@ firmasite
+msgid "Upload an image to use as an avatar for this group. The image will be shown on the main group page, and in search results."
+msgstr "Laden Sie ein Bild (Avatar) für diese Gruppe hoch. Das Bild wird auf der Hauptseite der Gruppe und in den Suchergebnissen angezeigt."
+
+#: groups/create.php:166
+#@ firmasite
+msgid "To skip the avatar upload process, hit the \"Next Step\" button."
+msgstr "Um kein Profilbild hochzuladen, klicke einfach auf \"Nächster Schritt\"."
+
+#: groups/create.php:173
+#@ firmasite
+msgid "Crop Group Avatar"
+msgstr "Gruppenbild zuschneiden"
+
+#: groups/create.php:175
+#: groups/single/admin.php:156
+#: members/single/profile/change-avatar.php:33
+#@ firmasite
+msgid "Avatar to crop"
+msgstr "Profilbild schneiden"
+
+#: groups/create.php:178
+#: groups/single/admin.php:159
+#: members/single/profile/change-avatar.php:36
+#@ firmasite
+msgid "Avatar preview"
+msgstr "Vorschau"
+
+#: groups/create.php:220
+#: groups/single/send-invites.php:22
+#@ firmasite
+msgid "Select people to invite from your friends list."
+msgstr "Laden Sie Leute aus Ihrer Freundesliste ein."
+
+#: groups/create.php:291
+#@ firmasite
+msgid "Create Group and Continue"
+msgstr "Gruppe erstellen und fortfahren"
+
+#: groups/groups-loop.php:80
+#@ firmasite
+msgid "There were no groups found."
+msgstr "Es wurden keine Gruppen gefunden."
+
+#: groups/index.php:59
+#: members/single/groups.php:23
+#@ firmasite
+msgid "Most Members"
+msgstr "Meiste Mitglieder"
+
+#: groups/index.php:60
+#: members/single/groups.php:24
+#@ firmasite
+msgid "Newly Created"
+msgstr "Zuletzt erstellt"
+
+#: groups/single/admin.php:142
+#@ firmasite
+msgid "If you'd like to remove the existing avatar but not upload a new one, please use the delete avatar button."
+msgstr "Wenn Sie Ihr aktuelles Profilbild löschen wollen ohne ein Neues hochzuladen, nutzen Sie bitte den \"Profilbild löschen\"-Button."
+
+#: groups/single/admin.php:144
+#: members/single/profile/change-avatar.php:24
+#@ firmasite
+msgid "Delete Avatar"
+msgstr "Profilbild löschen"
+
+#: groups/single/admin.php:154
+#@ firmasite
+msgid "Crop Avatar"
+msgstr "Gruppenbild zuschneiden"
+
+#: groups/single/admin.php:182
+#@ firmasite
+msgid "Administrators"
+msgstr "Administratoren"
+
+#: groups/single/admin.php:210
+#@ firmasite
+msgid "Moderators"
+msgstr "Moderatoren"
+
+#: groups/single/admin.php:265
+#@ firmasite
+msgid "(banned)"
+msgstr "(verbannt)"
+
+#: groups/single/admin.php:275
+#@ firmasite
+msgid "Kick and ban this member"
+msgstr "Diesen Benutzer kicken und bannen"
+
+#: groups/single/admin.php:271
+#@ firmasite
+msgid "Remove Ban"
+msgstr "Bann aufheben"
+
+#: groups/single/admin.php:275
+#@ firmasite
+msgid "Kick &amp; Ban"
+msgstr "Kicken &amp; Bannen"
+
+#: groups/single/admin.php:276
+#@ firmasite
+msgid "Promote to Mod"
+msgstr "Zum Moderator befördern"
+
+#: groups/single/admin.php:295
+#: groups/single/members.php:71
+#@ firmasite
+msgid "This group has no members."
+msgstr "Diese Gruppe hat keine Mitglieder."
+
+#: groups/single/admin.php:325
+#: members/single/friends/requests.php:21
+#: members/single/groups/invites.php:23
+#@ firmasite
+msgid "Accept"
+msgstr "Annehmen"
+
+#: groups/single/admin.php:327
+#: members/single/friends/requests.php:22
+#: members/single/groups/invites.php:24
+#@ firmasite
+msgid "Reject"
+msgstr "Ablehnen"
+
+#: groups/single/admin.php:340
+#@ firmasite
+msgid "There are no pending membership requests."
+msgstr "Es liegen keine Anfragen auf Gruppenmitgliedschaft vor."
+
+#: groups/single/admin.php:357
+#@ firmasite
+msgid "WARNING: Deleting this group will completely remove ALL content associated with it. There is no way back, please be careful with this option."
+msgstr "WARNUNG: Das Löschen dieser Gruppe entfernt ALLE verknüpften Inhalte. Es gibt keinen Weg zurück, also seien Sie bitte vorsichtig mit dieser Option."
+
+#: groups/single/admin.php:360
+#@ firmasite
+msgid "I understand the consequences of deleting this group."
+msgstr "Ich verstehe die Folgen, die sich aus dem Löschen dieser Gruppe ergeben."
+
+#: groups/single/forum.php:69
+#@ firmasite
+msgid "You will auto join this group when you start a new topic."
+msgstr "Sie werden automatisch Gruppenmitglied, wenn Sie ein neues Thema eröffnen."
+
+#: groups/single/forum/edit.php:87
+#@ firmasite
+msgid "This topic does not exist."
+msgstr "Dieses Thema existiert nicht."
+
+#: groups/single/forum/topic.php:118
+#@ firmasite
+msgid "You will auto join this group when you reply to this topic."
+msgstr "Sie werden automatisch Gruppenmitglied, wenn Sie diesem Thema antworten."
+
+#: groups/single/forum/topic.php:123
+#@ firmasite
+msgid "Add a reply:"
+msgstr "Antwort hinzufügen:"
+
+#: groups/single/forum/topic.php:128
+#@ firmasite
+msgid "Post Reply"
+msgstr "Antwort verfassen"
+
+#: groups/single/forum/topic.php:139
+#@ firmasite
+msgid "This topic is closed, replies are no longer accepted."
+msgstr "Dieses Thema ist geschlossen, weitere Antworten sind nicht zugelassen."
+
+#: groups/single/forum/topic.php:103
+#@ firmasite
+msgid "There are no posts for this topic."
+msgstr "Es gibt noch keine Antworten zu diesem Thema."
+
+#: groups/single/group-header.php:10
+#@ firmasite
+msgid "Group Admins"
+msgstr "Administratoren"
+
+#: groups/single/group-header.php:19
+#@ firmasite
+msgid "Group Mods"
+msgstr "Moderatoren"
+
+#: groups/single/request-membership.php:4
+#, php-format
+#@ firmasite
+msgid "You are requesting to become a member of the group '%s'."
+msgstr "Sie möchten Mitglied der Gruppe '%s' werden."
+
+#: groups/single/request-membership.php:7
+#@ firmasite
+msgid "Comments (optional)"
+msgstr "Kommentare (optional)"
+
+#: groups/single/request-membership.php:12
+#@ firmasite
+msgid "Send Request"
+msgstr "Anfrage senden"
+
+#: members/index.php:22
+#@ firmasite
+msgid "Members Directory"
+msgstr "Mitgliederverzeichnis"
+
+#: members/index.php:57
+#: members/single/friends.php:23
+#@ firmasite
+msgid "Newest Registered"
+msgstr "Zuletzt registriert"
+
+#: members/members-loop.php:92
+#@ firmasite
+msgid "Sorry, no members were found."
+msgstr "Es wurden keine Benutzer gefunden."
+
+#: members/single/friends/requests.php:52
+#@ firmasite
+msgid "You have no pending friendship requests."
+msgstr "Sie haben keine offene Freundschaftsanfragen."
+
+#: members/single/groups/invites.php:37
+#@ firmasite
+msgid "You have no outstanding group invites."
+msgstr "Sie haben keine ausstehenden Gruppeneinladungen."
+
+#: members/single/messages/compose.php:7
+#@ firmasite
+msgid "Send To (Username or Friend's Name)"
+msgstr "Sende an (Benutzername oder Name eines Freundes)"
+
+#: members/single/messages/compose.php:23
+#@ firmasite
+msgid "This is a notice to all users."
+msgstr "Das ist eine Nachricht an alle Benutzer."
+
+#: members/single/messages/messages-loop.php:36
+#@ firmasite
+msgid "From:"
+msgstr "Von:"
+
+#: members/single/messages/messages-loop.php:41
+#@ firmasite
+msgid "To:"
+msgstr "An:"
+
+#: members/single/messages/messages-loop.php:47
+#@ firmasite
+msgid "View Message"
+msgstr "Nachricht ansehen"
+
+#: members/single/messages/messages-loop.php:55
+#: members/single/messages/notices-loop.php:47
+#: members/single/messages/single.php:28
+#@ firmasite
+msgid "Delete Message"
+msgstr "Nachricht löschen"
+
+#: members/single/messages/messages-loop.php:77
+#@ firmasite
+msgid "Sorry, no messages were found."
+msgstr "Keine Nachrichten gefunden."
+
+#: members/single/messages/notices-loop.php:40
+#@ firmasite
+msgid "Sent:"
+msgstr "Gesendet:"
+
+#: members/single/messages/notices-loop.php:62
+#@ firmasite
+msgid "Sorry, no notices were found."
+msgstr "Keine Notizen gefunden."
+
+#: members/single/messages/single.php:79
+#@ firmasite
+msgid "Send a Reply"
+msgstr "Antwort senden"
+
+#: members/single/messages/single.php:100
+#@ firmasite
+msgid "Send Reply"
+msgstr "Antwort senden"
+
+#: members/single/profile/change-avatar.php:1
+#@ firmasite
+msgid "Change Avatar"
+msgstr "Profilbild ändern"
+
+#: members/single/profile/change-avatar.php:7
+#@ firmasite
+msgid "Your avatar will be used on your profile and throughout the site. If there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your account email we will use that, or you can upload an image from your computer."
+msgstr "Ihr Profilbild wird auf Ihrem Profil sowie auf der ganzen Webseite verwendet. Wenn mit Ihrer E-Mail-Adresse ein <a href=\"http://gravatar.com\">Gravatar</a> verknüpft ist, wird dieser verwendet, falls Sie kein anderes Profilbild hochladen."
+
+#: members/single/profile/change-avatar.php:14
+#@ firmasite
+msgid "Click below to select a JPG, GIF or PNG format photo from your computer and then click 'Upload Image' to proceed."
+msgstr "Klicken Sie hier, um ein JPG, GIF oder PNG-Bild von Ihrem Computer auszuwählen und klicken Sie dann auf 'Bild hochladen', um fortzufahren."
+
+#: members/single/profile/change-avatar.php:23
+#@ firmasite
+msgid "If you'd like to delete your current avatar but not upload a new one, please use the delete avatar button."
+msgstr "Wenn Sie Ihr aktuelles Profilbild löschen, aber kein Neues hochladen wollen, so nutzen Sie einfach den 'Profilbild löschen'-Button."
+
+#: members/single/profile/change-avatar.php:24
+#@ firmasite
+msgid "Delete My Avatar"
+msgstr "Mein Profilbild löschen"
+
+#: members/single/profile/change-avatar.php:31
+#@ firmasite
+msgid "Crop Your New Avatar"
+msgstr "Bitte schneiden Sie Ihr Profilbild!"
+
+#: members/single/profile/change-avatar.php:55
+#@ firmasite
+msgid "Your avatar will be used on your profile and throughout the site. To change your avatar, please create an account with <a href=\"http://gravatar.com\">Gravatar</a> using the same email address as you used to register with this site."
+msgstr "Ihr Profilbild wird auf Ihrem Profil sowie auf der ganzen Webseite verwendet. Wenn Sie Ihr Profilbild ändern möchten, verknüpfen Sie Ihre E-Mail-Adresse mit <a href=\"http://gravatar.com\">Gravatar</a>."
+
+#: members/single/profile/edit.php:10
+#, php-format
+#@ firmasite
+msgid "Editing '%s' Profile Group"
+msgstr "'%s' Profilgruppe bearbeiten"
+
+#: registration/activate.php:17
+#@ firmasite
+msgid "Account Activated"
+msgstr "Benutzerkonto aktiviert"
+
+#: registration/activate.php:22
+#@ firmasite
+msgid "Your account was activated successfully! Your account details have been sent to you in a separate email."
+msgstr "Ihr Benutzerkonto wurde erfolgreich aktiviert. Details zur Ihrer Anmeldung wurden an Ihre E-Mail-Adresse gesendet."
+
+#: registration/activate.php:33
+#@ firmasite
+msgid "Please provide a valid activation key."
+msgstr "Bitte geben Sie einen gültigen Aktivierungsschlüssel an."
+
+#: registration/register.php:32
+#@ firmasite
+msgid "Registering for this site is easy, just fill in the fields below and we'll get a new account set up for you in no time."
+msgstr "Die Registrierung ist ganz unkompliziert, einfach das unten stehende Formular ausfüllen und schon Sind Sie Mitglied."
+
+#: registration/register.php:60
+#@ firmasite
+msgid "Choose a Password"
+msgstr "Wählen Sie ein Passwort"
+
+#: registration/register.php:87
+#@ firmasite
+msgid "Profile Details"
+msgstr "Profildetails"
+
+#: registration/register.php:243
+#@ firmasite
+msgid "Blog Details"
+msgstr "Blogdetails"
+
+#: registration/register.php:279
+#@ firmasite
+msgid "Complete Sign Up"
+msgstr "Registrierung abschließen"
+
+#: registration/register.php:296
+#@ firmasite
+msgid "You have successfully created your account! To begin using this site you will need to activate your account via the email we have just sent to your address."
+msgstr "Ihr Benutzerkonto wurde erfolgreich erstellt! Um es vollständig nutzen zu können, müssen Sie es mit einem Klick auf den Link aktivieren, den wir Ihnen eben via E-Mail zugesandt haben."
+
+#: registration/register.php:298
+#@ firmasite
+msgid "You have successfully created your account! Please log in using the username and password you have just created."
+msgstr "Ihr Benutzerkonto wurde erfolgreich aktiviert. Sie können sich nun mit Ihren Zugangsdaten anmelden."
+
+#: assets/_inc/ajax.php:276
+#@ firmasite
+msgid "Please enter some content to post."
+msgstr "Bitte geben Sie etwas Inhalt im Beitrag ein."
+
+#: assets/_inc/ajax.php:324
+#@ firmasite
+msgid "Please do not leave the comment area blank."
+msgstr "Bitte lassen Sie den Kommentarbereich nicht leer."
+
+#: assets/_inc/ajax.php:327
+#: assets/_inc/ajax.php:336
+#@ firmasite
+msgid "There was an error posting that reply, please try again."
+msgstr "Es trat ein Fehler auf beim Senden der Antwort. Bitte versuchen Sie es noch einmal."
+
+#: members/single/settings/general.php:75
+#@ firmasite
+msgid "Change Password <span>(leave blank for no change)</span>"
+msgstr "Passwort ändern <span>(Leer lassen, um Ihr Passwort nicht zu ändern)</span>"
+
+#: members/single/settings/general.php:72
+#@ firmasite
+msgid "Account Email"
+msgstr "E-Mail-Adresse"
+
+#: members/single/settings/notifications.php:64
+#@ firmasite
+msgid "Send a notification by email when:"
+msgstr "Eine Benachrichtigung als E-Mail senden, wenn:"
+
+#: members/single/profile/profile-wp.php:24
+#@ firmasite
+msgid "About Me"
+msgstr "Über mich"
+
+#: members/single/profile/profile-wp.php:42
+#@ firmasite
+msgid "Jabber"
+msgstr "Jabber-ID"
+
+#: members/single/profile/profile-wp.php:51
+#@ firmasite
+msgid "AOL Messenger"
+msgstr "AOL Messenger"
+
+#: members/single/profile/profile-wp.php:60
+#@ firmasite
+msgid "Yahoo Messenger"
+msgstr "Yahoo Messenger"
+
+#: registration/activate.php:29
+#@ firmasite
+msgid "Activate your Account"
+msgstr "Aktivieren Sie Ihr Benutzerkonto!"
+
+#: groups/single/admin.php:236
+#@ firmasite
+msgid "Members"
+msgstr "Mitglieder"
+
+#: activity/entry.php:39
+#@ firmasite
+msgid "View Thread / Permalink"
+msgstr "Thread anzeigen / Permalink"
+
+#: members/single/settings/delete-account.php:60
+#: members/single/settings/delete-account.php:86
+#@ firmasite
+msgid "Delete Account"
+msgstr "Benutzerkonto löschen"
+
+#: assets/_inc/ajax.php:629
+#@ firmasite
+msgid "Cancel Friendship Request"
+msgstr "Freundschaftsanfrage abbrechen"
+
+#: assets/_inc/ajax.php:627
+#@ firmasite
+msgid " Friendship could not be requested."
+msgstr " Freundschaftsanfrage konnte nicht gestellt werden."
+
+#: assets/_inc/ajax.php:639
+#@ firmasite
+msgid "Friendship request could not be cancelled."
+msgstr "Die Freundschaftsanfrage konnte nicht abgebrochen werden."
+
+#: groups/create.php:125
+#@ firmasite
+msgid "Should this group have a forum?"
+msgstr "Soll diese Gruppe ein Forum bekommen?"
+
+#: functions/buddypress.php:283
+#: functions/buddypress.php:297
+#, php-format
+#@ firmasite
+msgid "This field can be seen by: <span class=\"current-visibility-level\">%s</span>"
+msgstr "Dieses Feld ist sichtbar für: <span class=\"current-visibility-level\">%s</span>"
+
+#: functions/buddypress.php:288
+#@ firmasite
+msgid "Who can see this field?"
+msgstr "Wer kann dieses Feld sehen?"
+
+#: members/single/settings/capabilities.php:67
+#@ firmasite
+msgid "This user is a spammer."
+msgstr "Dieser Benutzer ist ein Spammer."
+
+#: members/single/settings/delete-account.php:66
+#@ firmasite
+msgid "Deleting your account will delete all of the content you have created. It will be completely irrecoverable."
+msgstr "Wenn Sie Ihr Benutzerkonto löschen, werden alle von Ihnen erstellen Inhalte ebenfalls gelöscht. Dies ist unumkehrbar!"
+
+#: members/single/settings/delete-account.php:70
+#@ firmasite
+msgid "Deleting this account will delete all of the content it has created. It will be completely irrecoverable."
+msgstr "Beim Löschen dieses Benutzerkontos werden alle dadurch erstellen Inhalte ebenfalls gelöscht. Dies ist unumkehrbar!"
+
+#: members/single/settings/delete-account.php:82
+#@ firmasite
+msgid "I understand the consequences."
+msgstr "Ja, ich verstehe die Konsequenzen."
+
+#: bbpress/form-user-edit.php:173
+#@ firmasite
+msgid "Grant this user super admin privileges for the Network."
+msgstr "Diesem Benutzer Superadminrechte für das Netzwerk gewähren."
+
+#: functions/class-tgm-plugin-activation.php:164
+#: functions/init.php:458
+#@ firmasite
+msgid "Install Required Plugins"
+msgstr "Installiere die notwendigen Plugins"
+
+#: functions/class-tgm-plugin-activation.php:165
+#: functions/init.php:459
+#@ firmasite
+msgid "Install Plugins"
+msgstr "Installiere Plugins"
+
+#: functions/class-tgm-plugin-activation.php:166
+#: functions/init.php:460
+#, php-format
+#@ firmasite
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugin: %s"
+
+#: functions/class-tgm-plugin-activation.php:167
+#@ firmasite
+msgid "Something went wrong."
+msgstr "Es ist etwas schief gegangen."
+
+#: functions/class-tgm-plugin-activation.php:168
+#: functions/init.php:462
+#, php-format
+#@ firmasite
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Dieses Theme benötigt das folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme benötigt die folgenden Plugins: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:169
+#: functions/init.php:463
+#, php-format
+#@ firmasite
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Dieses Theme empfiehlt das folgende Plugin: %1$s."
+msgstr[1] "Dieses Theme empfiehlt die folgenden Plugins: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:171
+#: functions/init.php:464
+#, php-format
+#@ firmasite
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Entschuldigung, aber Sie haben nicht die erforderlichen Rechte um das Plugin %s zu aktivieren. Nehmen Sie Kontakt zum Administrator dieser Website auf, um Unterstützung bei der Aktivierung dieses Plugins zu erhalten."
+msgstr[1] "Entschuldigung, aber Sie haben nicht die erforderlichen Rechte um die Plugins %s zu aktivieren. Nehmen Sie Kontakt zum Administrator dieser Website auf, um Unterstützung bei der Aktivierung dieser Plugins zu erhalten."
+
+#: functions/class-tgm-plugin-activation.php:172
+#: functions/init.php:465
+#, php-format
+#@ firmasite
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende erforderliche Plugin ist im Moment nicht aktiviert: %1$s."
+msgstr[1] "Die folgenden erforderlichen Plugins sind im Moment nicht aktiviert: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:173
+#: functions/init.php:466
+#, php-format
+#@ firmasite
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Das folgende empfohlene Plugin ist im Moment nicht aktiviert: %1$s."
+msgstr[1] "Die folgenden empfohlenen Plugins sind im Moment nicht aktiviert: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:174
+#: functions/init.php:467
+#, php-format
+#@ firmasite
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Entschuldigung, aber Sie haben nicht die erforderlichen Rechte um das Plugin %s zu aktivieren. Nehmen Sie Kontakt zum Administrator dieser Website auf, um Unterstützung bei der Aktivierung dieses Plugins zu erhalten."
+msgstr[1] "Entschuldigung, aber Sie haben nicht die erforderlichen Rechte um die Plugins %s zu aktivieren. Nehmen Sie Kontakt zum Administrator dieser Website auf, um Unterstützung bei der Aktivierung dieser Plugins zu erhalten."
+
+#: functions/class-tgm-plugin-activation.php:175
+#: functions/init.php:468
+#, php-format
+#@ firmasite
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Das folgende Plugin muss auf die neueste Version updated werden, um maximale Kompatibilität mit diesem Theme sicherzustellen: %1$s."
+msgstr[1] "Die folgenden Plugins müssen auf die neueste Version updated werden, um maximale Kompatibilität mit diesem Theme sicherzustellen: %1$s."
+
+#: functions/class-tgm-plugin-activation.php:176
+#: functions/init.php:469
+#, php-format
+#@ firmasite
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Entschuldigung, aber Sie haben nicht die erforderlichen Rechte um das Plugin %s zu updaten. Nehmen Sie Kontakt zum Administrator dieser Website auf, um Unterstützung beim Updaten dieses Plugins zu erhalten."
+msgstr[1] "Entschuldigung, aber Sie haben nicht die erforderlichen Rechte um die Plugins %s zu updaten. Nehmen Sie Kontakt zum Administrator dieser Website auf, um Unterstützung beim Updaten dieser Plugins zu erhalten."
+
+#: functions/class-tgm-plugin-activation.php:177
+#: functions/init.php:470
+#@ firmasite
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Beginne mit der Installation des Plugins"
+msgstr[1] "Beginne mit der Installation der Plugins"
+
+#: functions/class-tgm-plugin-activation.php:179
+#: functions/init.php:471
+#@ firmasite
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Aktiviere installiertes Plugin"
+msgstr[1] "Aktiviere installierte Plugins"
+
+#: functions/class-tgm-plugin-activation.php:180
+#: functions/class-tgm-plugin-activation.php:510
+#: functions/init.php:472
+#@ firmasite
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zum Installer für erforderliche Plugins"
+
+#: functions/class-tgm-plugin-activation.php:181
+#: functions/class-tgm-plugin-activation.php:1908
+#: functions/init.php:473
+#@ firmasite
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+#: functions/class-tgm-plugin-activation.php:182
+#, php-format
+#@ firmasite
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins installiert und erfolgreich aktiviert. %1$s"
+
+#: functions/class-tgm-plugin-activation.php:537
+#: functions/class-tgm-plugin-activation.php:2120
+#@ firmasite
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: functions/class-tgm-plugin-activation.php:565
+#, php-format
+#@ firmasite
+msgid "The following plugin was activated successfully: %s."
+msgstr "Das folgende Plugin wurde erfolgreich aktiviert: %s."
+
+#: functions/class-tgm-plugin-activation.php:738
+#@ firmasite
+msgid "Dismiss this notice"
+msgstr "Diese Notiz verwerfen"
+
+#: functions/class-tgm-plugin-activation.php:1125
+#@ firmasite
+msgid "External Link"
+msgstr "Externer Link"
+
+#: functions/class-tgm-plugin-activation.php:1130
+#@ firmasite
+msgid "Private Repository"
+msgstr "Privates Repository"
+
+#: functions/class-tgm-plugin-activation.php:1133
+#@ firmasite
+msgid "Pre-Packaged"
+msgstr "Mitgeliefert"
+
+#: functions/class-tgm-plugin-activation.php:1137
+#@ firmasite
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: functions/class-tgm-plugin-activation.php:1140
+#@ firmasite
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: functions/class-tgm-plugin-activation.php:1143
+#@ firmasite
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: functions/class-tgm-plugin-activation.php:1145
+#@ firmasite
+msgid "Installed But Not Activated"
+msgstr "Installiert, aber nicht aktiviert"
+
+#: functions/class-tgm-plugin-activation.php:1343
+#, php-format
+#@ firmasite
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr "Keine Plugins zu installieren oder aktivieren.  <a href=\"%1$s\" title=\"Zurück zum Dashboard\">Zurück zum Dashboard</a>"
+
+#: functions/class-tgm-plugin-activation.php:1380
+#@ firmasite
+msgid "Install"
+msgstr "Installieren"
+
+#: functions/class-tgm-plugin-activation.php:1606
+#@ firmasite
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Das folgende Plugin ist erfolgreich aktiviert worden:"
+msgstr[1] "Die folgenden Plugins sind erfolgreich aktiviert worden:"
+
+#: functions/class-tgm-plugin-activation.php:1891
+#@ firmasite
+msgid "Install package not available."
+msgstr "Installationspaket nicht vorhanden."
+
+#: functions/class-tgm-plugin-activation.php:1892
+#, php-format
+#@ firmasite
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Download des Installationspakets von  <span class=\"code\">%s</span>&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1894
+#@ firmasite
+msgid "Installing the plugin&#8230;"
+msgstr "Installiere das Plugin&#8230;"
+
+#: functions/class-tgm-plugin-activation.php:1895
+#@ firmasite
+msgid "Plugin install failed."
+msgstr "Plugin-Installation fehlgeschlagen."
+
+#: functions/class-tgm-plugin-activation.php:1896
+#@ firmasite
+msgid "Plugin installed successfully."
+msgstr "Plugin erfolgreich installiert."
+
+#: functions/class-tgm-plugin-activation.php:1907
+#@ firmasite
+msgid "Plugin activation failed."
+msgstr "Aktivierung des Plugins fehlgeschlagen."
+
+#: functions/class-tgm-plugin-activation.php:2017
+#@ firmasite
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Der Installations- und Aktivierungsprozess ist gestartet. Dieser Prozess kann auf einigen Systemen eine Weile dauern, darum gedulde dich bitte ein bisschen."
+
+#: functions/class-tgm-plugin-activation.php:2018
+#, php-format
+#@ firmasite
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#: functions/class-tgm-plugin-activation.php:2019
+#@ firmasite
+msgid "All installations and activations have been completed."
+msgstr "Alle Installierungen und Aktivierungen erfolgreich ausgeführt."
+
+#: functions/class-tgm-plugin-activation.php:2020
+#, php-format
+#@ firmasite
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installieren und aktivieren Sie das Plugin %1$s (%2$d/%3$d)"
+
+#: functions/class-tgm-plugin-activation.php:2024
+#@ firmasite
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Der Installationsprozess hat begonnen. Dieser Prozess kann auf einigen Systemen eine Weile dauern, deshalb gedulde dich bitte ein bisschen."
+
+#: functions/class-tgm-plugin-activation.php:2025
+#, php-format
+#@ firmasite
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ein Fehler ist aufgetreten bei der Installtion von %1$s: <strong>%2$s</strong>."
+
+#: functions/class-tgm-plugin-activation.php:2026
+#, php-format
+#@ firmasite
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: functions/class-tgm-plugin-activation.php:2027
+#, php-format
+#@ firmasite
+msgid "%1$s installed successfully."
+msgstr "%1$s erfolgreich installiert."
+
+#: functions/class-tgm-plugin-activation.php:2028
+#@ firmasite
+msgid "All installations have been completed."
+msgstr "Alle Installationen sind abgeschlossen."
+
+#: functions/class-tgm-plugin-activation.php:2029
+#, php-format
+#@ firmasite
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin  %1$s (%2$d/%3$d)"
+
+#: functions/custom-custom-css.php:15
+#@ firmasite
+msgid "Custom Css"
+msgstr "Angepasstes CSS"
+
+#: functions/custom-custom-css.php:21
+#@ firmasite
+msgid "You can change your site's appearance with custom css but if you are not sure what you doing, please ask for support"
+msgstr "Sie können das Aussehen Ihrer Site mit Angepasstem CSS verändern, aber wenn Sie sich nicht sicher sind, was Sie da machen, bitten Sie besser jemanden um Unterstützung"
+
+#: functions/custom-custom-css.php:22
+#@ firmasite
+msgid "Be Careful!"
+msgstr "Seien Sie vorsichtig!"
+
+#: functions/customizer-call.php:77
+#@ firmasite
+msgid "Amelia"
+msgstr "Amelia"
+
+#: functions/customizer-call.php:78
+#@ firmasite
+msgid "Cerulean"
+msgstr "Cerulean"
+
+#: functions/customizer-call.php:79
+#@ firmasite
+msgid "Cosmo"
+msgstr "Cosmo"
+
+#: functions/customizer-call.php:80
+#@ firmasite
+msgid "Cyborg"
+msgstr "Cyborg"
+
+#: functions/customizer-call.php:81
+#@ firmasite
+msgid "Flatly"
+msgstr "Flatly"
+
+#: functions/customizer-call.php:82
+#@ firmasite
+msgid "Journal"
+msgstr "Journal"
+
+#: functions/customizer-call.php:83
+#@ firmasite
+msgid "Readable"
+msgstr "Readable"
+
+#: functions/customizer-call.php:84
+#@ firmasite
+msgid "Simplex"
+msgstr "Simplex"
+
+#: functions/customizer-call.php:85
+#@ firmasite
+msgid "Slate"
+msgstr "Slate"
+
+#: functions/customizer-call.php:86
+#@ firmasite
+msgid "Spacelab"
+msgstr "Spacelab"
+
+#: functions/customizer-call.php:87
+#@ firmasite
+msgid "United"
+msgstr "United"
+
+#: functions/customizer.php:90
+#@ firmasite
+msgid "You can upload logo for your site."
+msgstr "Sie können ein Logo für Ihre Website hochladen."
+
+#: functions/customizer.php:127
+#@ firmasite
+msgid "If you are not using logo, you can change your site title's color from this option."
+msgstr "Wenn Sie kein eigenes Logo benutzen, können Sie die Titelfarbe Ihrer Website hier ändern."
+
+#: functions/customizer.php:137
+#@ firmasite
+msgid "Category / Tag Color"
+msgstr "Farbe Kategorie / Schlagwort"
+
+#: functions/customizer.php:151
+#@ firmasite
+msgid "You can change your categories and taxonomies color from this option."
+msgstr "Mit dieser Option können Sie die Farben für Kategorien und Taxonomien ändern."
+
+#: functions/customizer.php:179
+#@ firmasite
+msgid "You can change your site's font"
+msgstr "Sie können die Schriftart für Ihre Website ändern"
+
+#: functions/customizer.php:211
+#@ firmasite
+msgid "Content - Sidebar"
+msgstr "Content - Sidebar"
+
+#: functions/customizer.php:212
+#@ firmasite
+msgid "Sidebar - Content"
+msgstr "Sidebar - Content"
+
+#: functions/customizer.php:213
+#@ firmasite
+msgid "Only Content. No sidebar (Short)"
+msgstr "Nur Content. Keine Sidebar (kurz)"
+
+#: functions/customizer.php:214
+#@ firmasite
+msgid "Only Content. No sidebar (Long)"
+msgstr "Nur Content. Keine Sidebar (lang)"
+
+#: functions/customizer.php:218
+#@ firmasite
+msgid "You can change your site's layout."
+msgstr "Sie können das Layout Ihrer Website ändern."
+
+#: functions/customizer.php:239
+#@ firmasite
+msgid "You can change your site's style."
+msgstr "Sie können den Stil Ihrer Website ändern."
+
+#: functions/customizer.php:262
+#@ firmasite
+msgid "Loop Style"
+msgstr "Stil für den Loop"
+
+#: functions/customizer.php:268
+#: functions/customizer.php:275
+#@ firmasite
+msgid "Vertical List (Excerpt)"
+msgstr "Vertikal angeordnete Liste (Exzerpt)"
+
+#: functions/customizer.php:274
+#@ firmasite
+msgid "Content will list one by one"
+msgstr "Inhalte werden einzeln aufgelistet"
+
+#: functions/customizer.php:276
+#@ firmasite
+msgid "Content's excerpt will list one by one"
+msgstr "Inhaltsexzerpte werden einzeln aufgelistet"
+
+#: functions/customizer.php:278
+#, php-format
+#@ firmasite
+msgid "Content's excerpt will list vertically (%s in each row)"
+msgstr "Inhaltsexzerpte werden vertikal aufgelistet (%s in jeder Reihe)"
+
+#: functions/customizer.php:290
+#@ firmasite
+msgid "Make fixed. No responsive"
+msgstr "Fixes Layout. Nicht responsiv"
+
+#: functions/customizer.php:296
+#@ firmasite
+msgid "Responsive feature have special display style for different devices (from desktop computer monitors to mobile phones). This will remove responsive feature so your site will have same display in all devices."
+msgstr "Das Feature Responsives Layout bietet spezielle Layout-Stile für unterschiedliche Geräte (vom Schreibtischmonitor bis zu Mobiltelefonen). Dies entfernt das Feature Responsives Layout und deine Website wird auf allen Geräten gleich angezeigt."
+
+#: functions/customizer.php:314
+#: functions/customizer.php:335
+#@ firmasite
+msgid "Alternative"
+msgstr "Alternative"
+
+#: functions/customizer.php:315
+#: functions/customizer.php:336
+#@ firmasite
+msgid "Simple"
+msgstr "Einfach"
+
+#: functions/customizer.php:319
+#: functions/customizer.php:340
+#@ firmasite
+msgid "If you are using menus, you can change menu style with this option"
+msgstr "Wenn Sie Menüs benutzen, können Sie den Menüstil hier ändern"
+
+#: functions/customizer.php:349
+#@ firmasite
+msgid "Dont make menu automatically open when hover"
+msgstr "Das Menü nicht automatisch öffnen beim Hover"
+
+#: functions/customizer.php:362
+#@ firmasite
+msgid "You can create or manage menus from Menus page under Appearance"
+msgstr "Menüs anlegen oder verwalten können Sie über den Punkt \"Menüs\" unter \"Design\""
+
+#: functions/init.php:8
+#@ firmasite
+msgid "Free responsive WordPress theme with Buddypress and bbPress supports. Have 4 different layout: content-sidebar,sidebar-content, full content (long), full content(short). 13 different theme styles, Google Fonts, logo upload abilities. Unique 2 feature builtin: Promotion Bar and ShowCase. All options are using WordPress Theme Customizer feature so you can watch changes live! Designers: This theme built on Twitter Bootstrap, have 0 custom css code and using template_part system so you can easily use it as parent theme! You can find detailed information, showcase, live demo, tips and tricks about theme in: http://theme.firmasite.com/"
+msgstr "Ein freies responsives WordPress Theme mit Support für Buddypress und bbPress. Mit 4 Layouts: Content-Sidebar, Sidebar-Content, Full Content (lang), Full Content (kurz). 13 verschiedenen Theme-Styles, Google Fonts, Logo-Upload-Möglichkeit. 2 einzigartige Features schon eingebaut: Promotion Bar und ShowCase. Alle Optionen nutzen das WordPress Theme Customizer Feature, damit können Anpassungen live angeschaut werden! Designer: Dieses Theme baut 100% auf Twitter Bootstrap auf und nutzt das template_part System, damit kann es ganz einfach als Parent-Theme genutzt werden! Detaillierte Infos, Beispiele, eine Live-Demo, Tipps und Tricks zum Theme gibt's auf: http://theme.firmasite.com/"
+
+#: functions/init.php:54
+#@ firmasite
+msgid "Widgets that shows in sidebar"
+msgstr "Widgets, die in der Sidebar angezeigt werden"
+
+#: functions/init.php:63
+#@ firmasite
+msgid "Widgets that shows in footer"
+msgstr "Widgets, die im Footer angezeigt werden"
+
+#: functions/init.php:461
+#@ firmasite
+msgid "Something went wrong with the plugin API."
+msgstr "Mit dem Plugin API ist etwas schief gelaufen."
+
+#: functions/init.php:474
+#, php-format
+#@ firmasite
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle Plugins erfolgreich installiert und aktiviert. %s"
+
+#: functions/promotionbar.php:129
+#: functions/promotionbar.php:141
+#@ firmasite
+msgid "Add to PromotionBar"
+msgstr "Zur PromotionBar hinzufügen"
+
+#: functions/promotionbar.php:229
+#@ firmasite
+msgid "Promotion Bar"
+msgstr "Promotion Bar"
+
+#: functions/promotionbar.php:230
+#: functions/showcase.php:196
+#@ firmasite
+msgid "These settings will activate when you save changes and refresh this page."
+msgstr "Diese Einstellungen werden aktiviert, wenn Sie die Änderungen speichern und diese Seite neu laden."
+
+#: functions/promotionbar.php:264
+#@ firmasite
+msgid "Where do you want to show Promotion Bar?"
+msgstr "Wo soll die Promotion Bar dargestellt werden?"
+
+#: functions/promotionbar.php:269
+#@ firmasite
+msgid "Only Home Page"
+msgstr "Nur Startseite"
+
+#: functions/promotionbar.php:270
+#@ firmasite
+msgid "All Site"
+msgstr "Die ganze Website"
+
+#: functions/promotionbar.php:271
+#@ firmasite
+msgid "Remove Promotion Bar"
+msgstr "Promotion Bar entfernen"
+
+#: functions/promotionbar.php:281
+#@ firmasite
+msgid "Which location do you want to show Promotion Bar?"
+msgstr "An welchem Ort möchten Sie den Promotion Abschnitt zeigen?"
+
+#: functions/promotionbar.php:286
+#@ firmasite
+msgid "Before Content"
+msgstr "Vor dem Content"
+
+#: functions/promotionbar.php:287
+#@ firmasite
+msgid "In Site Footer"
+msgstr "Im Footer der Website"
+
+#: functions/promotionbar.php:288
+#@ firmasite
+msgid "In top of Sidebar"
+msgstr "Oben in der Sidebar"
+
+#: functions/shortcodes.php:84
+#, php-format
+#@ firmasite
+msgid "This gallery contains %1$s photo."
+msgid_plural "This gallery contains %1$s photos."
+msgstr[0] "Diese Galerie enthält %1$s Foto."
+msgstr[1] "Diese Galerie enthält %1$s Fotos."
+
+#: functions/showcase.php:96
+#: functions/showcase.php:108
+#@ firmasite
+msgid "Add to ShowCase"
+msgstr "Zum ShowCase hinzufügen"
+
+#: functions/showcase.php:195
+#@ firmasite
+msgid "ShowCase"
+msgstr "ShowCase"
+
+#: functions/showcase.php:231
+#@ firmasite
+msgid "Call-to-Action Text"
+msgstr "Call-to-Action Text"
+
+#: functions/showcase.php:237
+#@ firmasite
+msgid "Current Call-to-Action text: "
+msgstr "Aktueller Call-to-Action Text:"
+
+#: functions/showcase.php:244
+#@ firmasite
+msgid "If you are planning to use multiple ShowCase posts, try to choose a common text"
+msgstr "Wenn Sie vorhaben, mehrere ShowCase Posts zu benutzen, versuchen Sie, einen gemeinsamen Text festzulegen"
+
+#: functions/showcase.php:245
+#@ firmasite
+msgid "For example:"
+msgstr "Zum Beispiel:"
+
+#: functions/showcase.php:246
+#@ firmasite
+msgid "Click for more details"
+msgstr "Klicken Sie hier für mehr Details"
+
+#: functions/showcase.php:254
+#@ firmasite
+msgid "Disable ShowCase feature"
+msgstr "ShowCase Feature ausschalten"
+
+#: functions/showcase.php:265
+#@ firmasite
+msgid "ShowCase is displaying in your home page only."
+msgstr "ShowCase wird nur auf deiner Startseite gezeigt."
+
+#: functions/template-tags.php:38
+#@ firmasite
+msgctxt "Next post link"
+msgid "<i class=\"icon-arrow-right\"></i>"
+msgstr "<i class=\"icon-arrow-right\"></i>"
+
+#: functions/template-tags.php:39
+#@ firmasite
+msgctxt "Previous post link"
+msgid "<i class=\"icon-arrow-left\"></i>"
+msgstr "<i class=\"icon-arrow-left\"></i>"
+
+#: groups/create.php:255
+#: groups/single/send-invites.php:73
+#@ firmasite
+msgid "Once you have built up friend connections you will be able to invite others to your group. You can send invites any time in the future by selecting the \"Send Invites\" option when viewing your new group."
+msgstr "Sobald Sie Freundschaftsbeziehungen eingerichtet haben, können Sie andere in Ihre Gruppe einladen. Sie können zukünftig jederzeit Einladungen verschicken, indem Sie die \"Sende Einladungen\"-Option auswählen, während Sie Ihre neue Gruppe ansehen."
+
+#: groups/single/admin.php:30
+#@ firmasite
+msgid "Notify group members of changes via email"
+msgstr "Informiere Gruppenmitglieder per E-Mail über Änderungen"
+
+#: registration/activate.php:24
+#@ firmasite
+msgid "Your account was activated successfully! You can now log in with the username and password you provided when you signed up."
+msgstr "Ihr Account ist erfolgreich aktiviert worden! Sie können sich jetzt mit dem Benutzernamen und dem Passwort einloggen, das Sie bei der Anmeldung angegeben haben."
+
+#: registration/register.php:290
+#@ firmasite
+msgid "Sign Up Complete!"
+msgstr "Anmeldevorgang abgeschlossen!"
+
+#: bbpress/feedback-no-search.php:13
+#@ firmasite
+msgid "Oh bother! No search results were found here!"
+msgstr "Schade! Keine Suchergebnisse gefunden!"
+
+#: bbpress/form-reply-move.php:24
+#, php-format
+#@ firmasite
+msgid "Move reply \"%s\""
+msgstr "Verschiebe Antwort \"%s\""
+
+#: bbpress/form-reply-move.php:29
+#@ firmasite
+msgid "You can either make this reply a new topic with a new title, or merge it into an existing topic."
+msgstr "Sie können diese Antwort entweder zu einem neuen Thema mit neuem Titel machen oder sie einem vorhandenen Thema zuordnen."
+
+#: bbpress/form-reply-move.php:33
+#@ firmasite
+msgid "If you choose an existing topic, replies will be ordered by the time and date they were created."
+msgstr "Wenn Sie ein vorhandenes Thema aussuchen, werden die Antworten nach dem Datum und der Uhrzeit ihrer Erstellung angeordnet."
+
+#: bbpress/form-reply-move.php:37
+#@ firmasite
+msgid "Move Method"
+msgstr "Verschiebe die Methode"
+
+#: bbpress/form-reply-move.php:42
+#, php-format
+#@ firmasite
+msgid "Moved: %s"
+msgstr "Verschoben: %s"
+
+#: bbpress/form-reply-move.php:86
+#@ firmasite
+msgid "You do not have the permissions to edit this reply!"
+msgstr "Sie verfügen nicht über die notwendigen Rechte, um diese Antwort zu editieren!"
+
+#: bbpress/form-reply-move.php:86
+#@ firmasite
+msgid "You cannot edit this reply."
+msgstr "Sie können diese Antwort nicht editieren."
+
+#: bbpress/form-search.php:12
+#: bbpress/form-search.php:15
+#@ firmasite
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: bbpress/form-search.php:17
+#@ firmasite
+msgid "Search"
+msgstr "Suche"
+
+#: bbpress/form-topic.php:130
+#@ firmasite
+msgid "(No Forum)"
+msgstr "(Kein Forum)"
+
+#: bbpress/form-topic.php:158
+#@ firmasite
+msgid "Topic Status:"
+msgstr "Themenstatus: "
+
+#: bbpress/loop-search-topic.php:32
+#@ firmasite
+msgid "in group forum "
+msgstr "im Gruppenforum"
+
+#: bbpress/loop-search-topic.php:36
+#@ firmasite
+msgid "in forum "
+msgstr "im Forum"
+
+#: bbpress/user-details.php:54
+#, php-format
+#@ firmasite
+msgid "Edit %s's Profile"
+msgstr "%s's Profil editieren"
+
+#: functions/customizer.php:355
+#@ firmasite
+msgid "You can disable dropdown menus automatically open when you hover.<br /> <span class=\"label label-warning\"><i class=\"icon-exclamation-sign\"></i> Be careful:</span> Parent menu item will only work for opening dropdown menu and won't work like a link"
+msgstr "Sie können ausschalten, dass sich Dropdown-Menüs automatisch beim Hovern öffnen. <br /> <span class=\"label label-warning\"><i class=\"icon-exclamation-sign\"></i> Aber Vorsicht:</span> Das Elternelement im Menü öffnet dann nur noch das Dropdown-Menü und ist selbst kein Link mehr"
+
+#: header.php:34
+#@ firmasite
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: searchform.php:7
+#@ firmasite
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: searchform.php:10
+#@ firmasite
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suche &hellip;"
+
+#: functions/customizer.php:267
+#: functions/customizer.php:273
+#@ firmasite
+msgid "Vertical List"
+msgstr "Vertikal angeordnete Liste"
+
+#: functions/customizer.php:269
+#: functions/customizer.php:277
+#@ firmasite
+msgid "Multi-Column List (Excerpt)"
+msgstr "Mehrspaltige Liste (Exzerpte)"
+
+#: functions/template-tags.php:85
+#: functions/template-tags.php:102
+#@ firmasite
+msgid "<span class=\"edit-link\"><span class=\"icon-edit\"></span> Edit</span>"
+msgstr "<span class=\"edit-link\"><span class=\"icon-edit\"></span> Bearbeiten</span>"
+
+#: activity/index.php:78
+#, php-format
+#@ firmasite
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] "%s neu"
+msgstr[1] "%s neu"
+
+#: bbpress/loop-search-reply.php:64
+#: bbpress/loop-single-reply-threaded.php:74
+#: bbpress/loop-single-reply.php:63
+#@ firmasite
+msgid "Details"
+msgstr "Details"
+
+#: templates/footer.php:34
+#: templates/header.php:57
+#@ firmasite
+msgid "Toggle navigation"
+msgstr "Navigation ausblenden"
+
+#: functions/buddypress.php:180
+#@ firmasite
+msgid "Site"
+msgstr "Website"
+
+#: functions/customizer.php:159
+#@ firmasite
+msgid "Appearance"
+msgstr "Darstellung"
+
+#: functions/customizer.php:190
+#@ firmasite
+msgid "Header Font"
+msgstr "Header Font"
+
+#: functions/customizer.php:197
+#@ firmasite
+msgid "You can optionally use different font in your site's headers."
+msgstr "Sie können optional auch unterschiedliche Fonts für den Header der Seite verwenden."
+
+#: functions/fix.php:164
+#, php-format
+#@ firmasite
+msgid "Daily Archives: %s"
+msgstr "Tagesarchiv:  %s"
+
+#: functions/fix.php:166
+#: functions/fix.php:171
+#: functions/fix.php:176
+#: functions/fix.php:180
+#: functions/fix.php:186
+#: templates/bbpress.php:12
+#, php-format
+#@ firmasite
+msgid "%s. page"
+msgstr "%s. Seite"
+
+#: functions/fix.php:169
+#, php-format
+#@ firmasite
+msgid "Monthly Archives: %s"
+msgstr "Monatsarchiv: %s"
+
+#: functions/fix.php:169
+#@ firmasite
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: functions/fix.php:174
+#, php-format
+#@ firmasite
+msgid "Yearly Archives: %s"
+msgstr "Jahresarchiv: %s"
+
+#: functions/fix.php:174
+#@ firmasite
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: functions/fix.php:179
+#, php-format
+#@ firmasite
+msgid "All posts by %s"
+msgstr "Alle Beiträge von %s"
+
+#: searchform.php:12
+#@ firmasite
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suche"
+
+#: functions/customizer.php:101
+#@ firmasite
+msgid "Please decide your preferred <strong>Theme Style</strong> under <strong>Appearance</strong> first. Then you can change small color options here."
+msgstr "Bitte legen Sie den gewünschten <strong>Theme-Stil</strong> unter <strong>Design</strong> fest. Dann können Sie kleinere Farbänderungen hier einstellen."
+
+#: functions/customizer.php:308
+#@ firmasite
+msgid "Main Menu Style"
+msgstr "Stil des Hauptmenüs"
+
+#: functions/customizer.php:329
+#@ firmasite
+msgid "Footer Menu Style"
+msgstr "Stil des Menüs im Footer"
+
+#: functions/promotionbar.php:255
+#@ firmasite
+msgid "If you leave it empty, it wont show title. Example titles: <b>Editor's Choice</b>, <b>Must Read List</b> "
+msgstr "Wenn Sie dieses Feld leer lassen, wird kein Titel dargestellt. Beispiele für Titel: <b>Empfohlene Beiträge</b>, <b>Pfichtlektüre</b> "
+
+#: functions/promotionbar.php:289
+#@ firmasite
+msgid "In bottom of Sidebar"
+msgstr "Am Ende der Sidebar"
+
+#: functions/class-tgm-plugin-activation.php:170
+#, php-format
+#@ firmasite
+msgid "There is a new update for %1$s."
+msgid_plural "There are several plugins updates available %1$s."
+msgstr[0] "Es gibt ein neues Update für %1$s."
+msgstr[1] "Es gibt mehrere Updates für %1$s."
+
+#: functions/class-tgm-plugin-activation.php:178
+#@ firmasite
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Update des Plugins starten"
+msgstr[1] "Update der Plugins starten"
+
+#: functions/class-tgm-plugin-activation.php:1147
+#@ firmasite
+msgid "Not Updated"
+msgstr "Nicht updated"
+
+#: functions/class-tgm-plugin-activation.php:1149
+#@ firmasite
+msgid "Active"
+msgstr "Aktiv"
+
+#: functions/showcase.php:216
+#@ firmasite
+msgid "ShowCase Style"
+msgstr "Stil für den ShowCase"
+
+#: functions/showcase.php:221
+#@ firmasite
+msgid "Bigger"
+msgstr "Größer"
+
